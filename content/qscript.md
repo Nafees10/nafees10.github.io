@@ -1,5 +1,5 @@
 ---
-title: "Title"
+title: "QScript"
 date: 2023-07-10T17:32:01+05:00
 tags: [ "projects", "qscript" ]
 ---
