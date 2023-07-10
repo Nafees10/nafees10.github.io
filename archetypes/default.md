@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Title"
 date: {{ .Date }}
-draft: true
+# aliases: ["/first"]
+tags: [ "posts" ]
 ---
-
