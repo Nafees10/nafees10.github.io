@@ -1,0 +1,104 @@
+baseURL = 'https://nafees.digital/'
+languageCode = 'en-us'
+title = "Nafees Hassan"
+theme = 'PaperMod'
+
+paginate = 5
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+pygmentsUseClasses = true
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "Nafees Hassan"
+description = "Nafees Hassan's Site"
+keywords = [ "Blog", "Portfolio", "Nafees", "Programming" ]
+DateFormat = "2 January, 2006"
+author = "Nafees"
+
+ShowShareButtons = true
+ShowReadingTime = true
+ShowToc = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+
+	[params.assets]
+	favicon = "/favicon.ico"
+	favicon16x16 = "/favicon.ico"
+	favicon32x32 = "/favicon.ico"
+	apple_touch_icon = "/favicon.ico"
+	safari_pinned_tab = "/favicon.ico"
+
+	[params.label]
+	text = "Nafees Hassan"
+
+	[params.profileMode]
+	enabled = true
+	title = "Nafees Hassan"
+	subtitle = "Computer Programmer, Open Source enthusiast"
+	#imageUrl = "<img location>"
+	imageWidth = 120
+	imageHeight = 120
+	imageTitle = "my image"
+
+		[[params.profileMode.buttons]]
+		name = "Projects"
+		url = "tags/projects"
+
+		[[params.profileMode.buttons]]
+		name = "Posts"
+		url = "tags/posts"
+
+		[[params.profileMode.buttons]]
+		name = "Tags"
+		url = "tags"
+
+	[[params.socialIcons]]
+	name = "github"
+	url = "https://github.com/Nafees10"
+
+	[params.cover]
+	hidden = true
+	hiddenInList = true
+	hiddenInSingle = true
+
+	[params.editPost]
+	URL = "https://github.com/nafees10.github.io/content"
+	Text = "Suggest Changes"
+	appendFilePath = true
+
+	[params.fuseOpts]
+	isCaseSensitive = false
+	shouldSort = true
+	location = 0
+	distance = 1_000
+	threshold = 0.4
+	minMatchCharLength = 0
+	keys = [ "title", "permalink", "summary", "content" ]
+
+[[menu.main]]
+identifier = "Projects"
+name = "Projects"
+url = "tags/projects"
+weight = 10
+
+[[menu.main]]
+identifier = "Blog"
+name = "Blog"
+url = "tags/posts"
+weight = 20
+
+[[menu.main]]
+identifier = "Tags"
+name = "Tags"
+url = "tags/"
+weight = 20
+
+[markup.highlight]
+noClasses = false
