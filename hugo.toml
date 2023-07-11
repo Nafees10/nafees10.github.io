@@ -38,26 +38,12 @@ ShowCodeCopyButtons = true
 	[params.label]
 	text = "Nafees Hassan"
 
-	[params.profileMode]
-	enabled = true
-	title = "Nafees Hassan"
-	subtitle = "Computer Programmer, Open Source enthusiast"
-	#imageUrl = "<img location>"
-	imageWidth = 120
-	imageHeight = 120
-	imageTitle = "my image"
-
-		[[params.profileMode.buttons]]
-		name = "Projects"
-		url = "tags/projects"
-
-		[[params.profileMode.buttons]]
-		name = "Posts"
-		url = "tags/posts"
-
-		[[params.profileMode.buttons]]
-		name = "Tags"
-		url = "tags"
+	[params.homeInfoParams]
+	Title = "Nafees Hassan"
+	Content = """
+Computer Programmer, Open Source enthusiast,
+with a interest in low level and efficient computing
+"""
 
 	[[params.socialIcons]]
 	name = "github"
@@ -83,15 +69,21 @@ ShowCodeCopyButtons = true
 	keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
+identifier = "About"
+name = "About"
+url = "/about"
+weight = 20
+
+[[menu.main]]
 identifier = "Projects"
 name = "Projects"
-url = "tags/projects"
-weight = 10
+url = "/projects"
+weight = 20
 
 [[menu.main]]
 identifier = "Blog"
 name = "Blog"
-url = "tags/posts"
+url = "/posts"
 weight = 20
 
 [[menu.main]]
