@@ -42,7 +42,7 @@ ShowCodeCopyButtons = true
 	Title = "Nafees Hassan"
 	Content = """
 Computer Programmer, Open Source enthusiast,
-with a interest in low level and efficient computing
+with an interest in low level and efficient computing
 """
 
 	[[params.socialIcons]]
