@@ -72,7 +72,7 @@ with a interest in low level and efficient computing
 identifier = "About"
 name = "About"
 url = "/about"
-weight = 20
+weight = 10
 
 [[menu.main]]
 identifier = "Projects"
@@ -84,13 +84,13 @@ weight = 20
 identifier = "Blog"
 name = "Blog"
 url = "/posts"
-weight = 20
+weight = 30
 
 [[menu.main]]
-identifier = "Tags"
-name = "Tags"
-url = "tags/"
-weight = 20
+identifier = "Archive"
+name = "Archive"
+url = "/archive"
+weight = 40
 
 [markup.highlight]
 noClasses = false
