@@ -11,3 +11,5 @@ time I started some projects, some of which have evolved considerably.
 
 Currently I am a pursing BS(Software Engineering) at FAST NUCES Lahore, since
 2021.
+
+Here is my resume: [nafeesResume.pdf](/nafeesResume.pdf)
