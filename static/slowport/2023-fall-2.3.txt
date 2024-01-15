@@ -1,0 +1,887 @@
+FSC_Time_Table__List_of_Courses_Fall_2023_v2.3.ods[0]
+	statistical and mathematical methods for data science	MDS-1A	Seminar Hall	mon	083000	170
+	tech business writing	BDS-5D	Seminar Hall	mon	113000	80
+	linear algebra	BCS-3C	Seminar Hall	mon	143000	80
+	linear algebra	BCS-3E	Seminar Hall	mon	160000	80
+	medical image processing	MCS-1A	Old Audi	mon	083000	80
+	theory of programming languages	MCS-1A	Old Audi	mon	100000	170
+	soft quality eng	BSE-5B	Old Audi	mon	130000	80
+	applied programming	MDS-1A	Old Audi	mon	143000	80
+	programming fundamentals	BCS-1K	Old Audi	mon	160000	80
+	reserved mgmt		Old Audi	mon	180000	140
+	fund of computer vision	BCS-7B	CS-2	mon	083000	80
+	data structures	BCS-3B	CS-2	mon	100000	80
+	data structures	BCS-3A	CS-2	mon	113000	80
+	software design analysis	BCS-5K	CS-2	mon	130000	80
+	software requirement eng	BSE-3B	CS-2	mon	143000	80
+	intro to data science	BDS-3A	CS-2	mon	160000	80
+	software project management	MSP-1A	CS-2	mon	173000	170
+	theory of automata	BCS-5A	CS-3	mon	083000	80
+	theory of automata	BCS-5B	CS-3	mon	100000	80
+	database systems	BCS-5A	CS-3	mon	113000	80
+	theory of automata	BCS-5E	CS-3	mon	130000	80
+	database systems	BCS-5B	CS-3	mon	143000	80
+	compiler construction	BCS-7A	CS-3	mon	160000	80
+	quantum computing	BCS-7A	CS-3	mon	173000	80
+	com org assembly lang	BCS-3B	CS-4	mon	083000	80
+	com org assembly lang	BCS-3D	CS-4	mon	100000	80
+	com org assembly lang	BCS-3E	CS-4	mon	113000	80
+	com org assembly lang	BCS-3C	CS-4	mon	130000	80
+	com org assembly lang	BCS-3F	CS-4	mon	143000	80
+	programming fundamentals	BDS-1B	CS-4	mon	160000	80
+	tech business writing	BSE-5A	CS-4	mon	173000	80
+	tech business writing	BDS-5A	CS-5	mon	083000	80
+	information security	BCS-7C	CS-5	mon	100000	80
+	programming fundamentals	BCS-1C	CS-5	mon	113000	80
+	artificial intelligence	BCS-7A	CS-5	mon	130000	80
+	software design analysis	BCS-5L	CS-5	mon	143000	80
+	professional practices in it	BSE-7A	CS-5	mon	160000	80
+	data warehousing bi	BDS-5B	CS-6	mon	100000	80
+	soft quality eng	BSE-5C	CS-6	mon	113000	80
+	discrete structures	BSR-3B	CS-6	mon	130000	80
+	linear algebra	BCS-3H	CS-6	mon	143000	80
+	numerical computing	BCS-5E	CS-6	mon	160000	80
+	professional practices in it	BDS-7A	CS-6	mon	173000	80
+	professional practices in it	BDS-7A	CS-6	mon	190000	80
+	data structures	BDS-3B	CS-7	mon	083000	80
+	data structures	BDS-3A	CS-7	mon	100000	80
+	applied artificial intelligence	BSE-7A	CS-7	mon	113000	80
+	programming fundamentals	BSE-1B	CS-7	mon	143000	80
+	calculus and ana geometry	BDS-1C	CS-7	mon	160000	80
+	calculus and ana geometry	BCS-1J	CS-9	mon	083000	80
+	com org assembly lang	BDS-3B	CS-9	mon	100000	80
+	com org assembly lang	BSR-3A	CS-9	mon	113000	80
+	data structures	BSR-3A	CS-9	mon	130000	80
+	com org assembly lang	BDS-3A	CS-9	mon	143000	80
+	discrete structures	BCS-3H	CS-9	mon	160000	80
+	artificial intelligence	BCS-7B	CS-9	mon	173000	80
+	computer networks	BCS-5H	CS-10	mon	083000	80
+	data structures	BCS-3C	CS-10	mon	100000	80
+	data structures	BCS-3D	CS-10	mon	113000	80
+	data structures	BSE-3C	CS-10	mon	130000	80
+	bioinformatics	BCS-9A	CS-10	mon	143000	80
+	numerical computing	BCS-5J	CS-10	mon	160000	80
+	computer networks	BSR-5A	CS-11	mon	083000	80
+	design analysis of algo	BSR-5A	CS-11	mon	100000	80
+	design analysis of algo	BDS-5C	CS-11	mon	113000	80
+	programming fundamentals	BSE-1A	CS-11	mon	130000	80
+	information security	BCS-7A	CS-11	mon	143000	80
+	probability statistics	BCS-5A	CS-11	mon	160000	80
+	software requirement eng	BSE-3A	CS-11	mon	173000	80
+	tech business writing	BDS-5B	CS-15	mon	083000	80
+	programming fundamentals	BCS-1J	CS-15	mon	100000	80
+	computer networks	BCS-5B	CS-15	mon	113000	80
+	data analysis visualization	BDS-5D	CS-15	mon	130000	80
+	linear algebra	BCS-3G	CS-15	mon	143000	80
+	linear algebra	BCS-3J	CS-15	mon	160000	80
+	tech business writing	BCS-5G	CS-16	mon	083000	80
+	applied physics	BDS-1B	CS-16	mon	100000	80
+	data structures	BCS-3F	CS-16	mon	113000	80
+	data structures	BCS-3E	CS-16	mon	130000	80
+	calculus and ana geometry	BCS-1C	CS-16	mon	143000	80
+	calculus and ana geometry	BCS-1D	CS-16	mon	160000	80
+	operating systems	BCS-5C	Lib	mon	083000	80
+	object oriented programming	BCS-3B	Lib	mon	100000	80
+	object oriented programming	BCS-3A	Lib	mon	113000	80
+	calculus and ana geometry	BDS-1B	Lib	mon	143000	80
+	professional practices in it	BCS-7D	Lib	mon	160000	80
+	professional practices in it	BCS-7C	Lib	mon	173000	80
+	calculus and ana geometry	BCS-1A	E&M-1	mon	083000	80
+	numerical computing	BCS-5C	E&M-1	mon	100000	80
+	computer networks	BCS-5E	E&M-1	mon	113000	80
+	applied physics	BCS-1G	E&M-1	mon	130000	80
+	functional english	BCS-1B	E&M-1	mon	143000	110
+	calculus and ana geometry	BCS-1E	E&M-2	mon	083000	80
+	data analysis visualization	BDS-5A	E&M-2	mon	100000	80
+	computer networks	BCS-5L	E&M-2	mon	113000	80
+	applied physics	BCS-1J	E&M-2	mon	130000	80
+	operations research	BSE-5C	E&M-2	mon	143000	80
+	theory of automata	BCS-5H	E&M-2	mon	160000	80
+	calculus and ana geometry	BCS-1G	E&M-3	mon	083000	80
+	functional english	BCS-1G	E&M-3	mon	100000	110
+	information security	BCS-7E	E&M-3	mon	130000	80
+	numerical computing	BCS-5K	E&M-3	mon	143000	80
+	com org assembly lang	BSR-3B	E&M-3	mon	160000	80
+	reserved		E&M-4	mon	083000	80
+	reserved		E&M-4	mon	100000	80
+	numerical computing	BCS-5M	E&M-4	mon	113000	80
+	applied physics	BCS-1B	E&M-4	mon	130000	80
+	applied physics	BCS-1A	E&M-4	mon	143000	80
+	soft const development	BSE-5B	E&M-4	mon	160000	80
+	discrete structures	BCS-3C	E&M-5	mon	083000	80
+	reserved		E&M-5	mon	100000	80
+	discrete structures	BCS-3B	E&M-5	mon	113000	80
+	applied physics	BDS-1C	E&M-5	mon	130000	80
+	probability statistics	BSE-3C	E&M-5	mon	143000	80
+	international relations	BCS-3A	E&M-5	mon	160000	80
+	discrete structures	BCS-3G	E&M-11	mon	083000	80
+	com org assembly lang	BCS-3J	E&M-11	mon	100000	80
+	applied physics	BCS-1E	E&M-11	mon	113000	80
+	applied physics	BDS-1A	E&M-11	mon	130000	80
+	applied physics	BCS-1H	E&M-11	mon	143000	80
+	probability statistics	BDS-3C	E&M-11	mon	160000	80
+	object oriented programming	BDS-3A	CE-1	mon	083000	80
+	professional practices in it	BCS-7A	CE-1	mon	100000	80
+	operations research	BSE-5B	CE-1	mon	113000	80
+	software design analysis	BCS-5H	CE-1	mon	130000	80
+	functional english	BCS-1F	CE-1	mon	143000	110
+	intro to public policy	BSE-3A	CE-2	mon	083000	80
+	discrete structures	BCS-3F	CE-2	mon	100000	80
+	com org assembly lang	BCS-3G	CE-2	mon	113000	80
+	com org assembly lang	BCS-3H	CE-2	mon	130000	80
+	information security	BCS-7D	CE-2	mon	143000	80
+	linear algebra	BSR-3A	CE-2	mon	160000	80
+	parallel dist computing	BDS-7A	CE-3	mon	083000	80
+	software design analysis	BSR-5A	CE-3	mon	100000	80
+	data structures	BDS-3C	CE-3	mon	113000	80
+	applied physics	BCS-1F	CE-3	mon	130000	80
+	applied physics	BCS-1K	CE-3	mon	143000	80
+	professional practices in it	BCS-7B	CE-3	mon	160000	80
+	differential equations	BCS-3A	CS-1	mon	083000	80
+	operations research	BSE-5A	CS-1	mon	100000	80
+	fund of computer vision	BCS-7A	CS-1	mon	113000	80
+	numerical computing	BSR-5A	CS-1	mon	130000	80
+	foreign policy of pak	BCS-3A	CS-1	mon	143000	80
+	applied physics	BSE-1B	CS-1	mon	160000	80
+	calculus and ana geometry	BSE-1B	CS-8	mon	083000	80
+	brand management	BSE-3A	CS-8	mon	100000	80
+	intro to data science	BDS-3B	CS-8	mon	113000	80
+	intro to data science	BDS-3C	CS-8	mon	130000	80
+	numerical computing	BCS-5G	CS-8	mon	143000	80
+	computer networks	BDS-7B	CS-8	mon	160000	80
+	discrete structures	BDS-3C	E&M-16	mon	083000	80
+	discrete structures	BSR-3A	E&M-16	mon	100000	80
+	information security	BCS-7B	E&M-16	mon	113000	80
+	probability statistics	BSE-3A	E&M-16	mon	130000	80
+	professional practices in it	BCS-7F	E&M-16	mon	143000	80
+	functional english lab	BCS-1D1	English Lab-1	mon	113000	80
+	functional english lab	BCS-1C1	English Lab-1	mon	130000	80
+	functional english lab	BCS-1G1	English Lab-1	mon	143000	80
+	functional english lab	BCS-1D2	English Lab-2	mon	113000	80
+	functional english lab	BCS-1C2	English Lab-2	mon	130000	80
+	functional english lab	BCS-1G2	English Lab-2	mon	143000	80
+	functional english lab	BDS-1C1	English Lab-3	mon	083000	80
+	functional english lab	BCS-1E1	English Lab-3	mon	100000	80
+	functional english lab	BSE-1B1	English Lab-3	mon	113000	80
+	functional english lab	BCS-1J1	English Lab-3	mon	143000	80
+	functional english lab	BDS-1C2	English Lab-4	mon	083000	80
+	functional english lab	BCS-1E2	English Lab-4	mon	100000	80
+	functional english lab	BSE-1B2	English Lab-4	mon	113000	80
+	functional english lab	BCS-1J2	English Lab-4	mon	143000	80
+	intro to info comm technologies	BCS-1C	Lab(CS-1)	mon	083000	170
+	intro to info comm technologies	BCS-1A	Lab(CS-1)	mon	113000	170
+	intro to info comm technologies	BDS-1A	Lab(CS-1)	mon	143000	170
+	intro to info comm technologies	BCS-1D	Lab(CS-2A)	mon	083000	170
+	data analysis visualization lab	BDS-5A1, BDS-5A2	Lab(CS-2A)	mon	113000	170
+	reserved mgmt		Lab(CS-2A)	mon	143000	170
+	reserved mgmt		Lab(CS-2B)	mon	083000	80
+	intro to info comm technologies	BSE-1A	Lab(CS-2B)	mon	100000	170
+	data analysis visualization lab	BDS-5D1, BDS-5D2	Lab(CS-2B)	mon	143000	170
+	intro to info comm technologies	BCS-1H	Lab(CS-3)	mon	083000	170
+	operating systems lab	BDS-5B1,BDS-5B2	Lab(CS-3)	mon	113000	170
+	linear algebra	BSR-3B	Lab(CS-3)	mon	143000	80
+	data analysis visualization lab	BDS-5C1, BDS-5C2	Lab(CS-4)	mon	083000	170
+	com org assembly lang lab	BCS-3J1, BCS-3J2	Lab(CS-4)	mon	130000	170
+	programming fundamentals lab	BSE-1C1, BSE-1C2	Lab(CS-6)	mon	083000	170
+	reserved mgmt		Lab(CS-6)	mon	113000	170
+	operating systems lab	BCS-5C1, BCS-5C2	Lab(CS-6)	mon	143000	170
+	reserved mgmt		Lab(CS-6)	mon	173000	170
+	com org assembly lang lab	BSR-3B1, BSR-3B2	Lab(CS-8)	mon	083000	170
+	intro to info comm technologies	BCS-1K	Lab(CS-8)	mon	113000	170
+	reserved mgmt		Lab(CS-8)	mon	143000	170
+	programming fundamentals lab	BCS-1B1, BCS-1B2	Lab(CS-9)	mon	083000	170
+	data structures lab	BSE-3B1, BSE-3B2	Lab(CS-9)	mon	113000	170
+	data structures lab	BSE-3A1, BSE-3A2	Lab(CS-9)	mon	143000	170
+	tech business writing	BCS-5E	Seminar Hall	tue	083000	80
+	linear algebra	BCS-3D	Seminar Hall	tue	100000	80
+	linear algebra	BCS-3A	Seminar Hall	tue	113000	80
+	numerical computing	BCS-5L	Seminar Hall	tue	130000	80
+	linear algebra	BCS-3B	Seminar Hall	tue	143000	80
+	reserved		Old Audi	tue	083000	260
+	computer networks	BSE-7A	Old Audi	tue	143000	80
+	reserved mgmt		Old Audi	tue	173000	170
+	computer networks	BDS-7A	CS-2	tue	083000	80
+	advanced operating systems	MCS-1A	CS-2	tue	100000	170
+	software design analysis	BCS-5F	CS-2	tue	130000	80
+	operating systems	BSE-5A	CS-2	tue	143000	80
+	operating systems	BDS-5C	CS-2	tue	160000	80
+	research methodology	MSP-1A	CS-2	tue	173000	170
+	data science tools and technique	MDS-1A	CS-3	tue	083000	170
+	data warehousing dm	BCS-7A	CS-3	tue	113000	80
+	theory of automata	BCS-5G	CS-3	tue	130000	80
+	data warehousing bi	BDS-5A	CS-3	tue	143000	80
+	web programming	BCS-7A	CS-3	tue	160000	80
+	software testing	BCS-7A	CS-4	tue	083000	80
+	database systems	BSE-5A	CS-4	tue	100000	80
+	theory of automata	BCS-5D	CS-4	tue	113000	80
+	operating systems	BCS-5B	CS-4	tue	130000	80
+	software engineering	BCS-7A	CS-4	tue	143000	80
+	tech business writing	BCS-5C	CS-4	tue	160000	80
+	programming fundamentals	BCS-1A	CS-5	tue	083000	80
+	programming fundamentals	BDS-1A	CS-5	tue	100000	80
+	soft const development	BSE-5A	CS-5	tue	113000	80
+	parallel dist computing	BCS-7A	CS-5	tue	130000	80
+	data science	BCS-7B	CS-5	tue	143000	80
+	data science	BCS-7A	CS-5	tue	160000	80
+	tech business writing	BCS-5J	CS-6	tue	083000	80
+	tech business writing	BCS-5H	CS-6	tue	100000	80
+	programming fundamentals	BCS-1E	CS-6	tue	113000	80
+	numerical computing	BCS-5A	CS-6	tue	130000	80
+	programming fundamentals	BCS-1D	CS-6	tue	143000	80
+	operating systems	BCS-5A	CS-6	tue	160000	80
+	quantum computing	BCS-9A	CS-6	tue	173000	80
+	data structures	BSR-3B	CS-7	tue	083000	80
+	discrete structures	BCS-3E	CS-7	tue	100000	80
+	software design analysis	BCS-5G	CS-7	tue	113000	80
+	com org assembly lang	BCS-3A	CS-7	tue	130000	80
+	professional practices in it	BDS-7B	CS-7	tue	143000	80
+	internet of things	BCS-9A	CS-7	tue	160000	80
+	soft quality eng	BSE-5A	CS-9	tue	083000	80
+	theory of automata	BCS-5C	CS-9	tue	100000	80
+	data structures	BSE-3B	CS-9	tue	113000	80
+	data structures	BSE-3A	CS-9	tue	130000	80
+	software design analysis	BCS-5J	CS-9	tue	143000	80
+	software design analysis	BCS-5M	CS-9	tue	160000	80
+	operating systems	BDS-5A	CS-10	tue	083000	80
+	design analysis of algo	BDS-5B	CS-10	tue	100000	80
+	data structures	BCS-3G	CS-10	tue	113000	80
+	data structures	BCS-3H	CS-10	tue	130000	80
+	computer networks	BCS-5G	CS-10	tue	143000	80
+	programming fundamentals	BDS-1C	CS-10	tue	160000	80
+	operating systems	BDS-5B	CS-11	tue	083000	80
+	programming fundamentals	BCS-1F	CS-11	tue	100000	80
+	programming fundamentals	BCS-1G	CS-11	tue	113000	80
+	design analysis of algo	BDS-5A	CS-11	tue	130000	80
+	database systems	BCS-5C	CS-11	tue	143000	80
+	discrete structures	BCS-3D	CS-15	tue	083000	80
+	programming fundamentals	BCS-1B	CS-15	tue	100000	80
+	software design analysis	BCS-5E	CS-15	tue	113000	80
+	human computer interaction	BSE-3C	CS-15	tue	130000	80
+	data analysis visualization	BDS-5C	CS-15	tue	143000	80
+	tech business writing	BDS-5C	CS-16	tue	083000	80
+	numerical computing	BCS-5D	CS-16	tue	100000	80
+	obj oriented programming	BSE-3A	CS-16	tue	130000	80
+	applied physics	BCS-1C	CS-16	tue	143000	80
+	applied physics	BCS-1D	CS-16	tue	160000	80
+	discrete structures	BDS-3A	Lib	tue	083000	80
+	computer networks	BCS-5A	Lib	tue	100000	80
+	database systems	BDS-5A	Lib	tue	113000	80
+	blockchain and cryptocurrency	BDS-7B	Lib	tue	130000	80
+	numerical computing	BCS-5H	Lib	tue	143000	80
+	tech business writing	BCS-5A	E&M-1	tue	083000	80
+	theory of automata	BSR-5A	E&M-1	tue	100000	80
+	functional english	BCS-1C	E&M-1	tue	113000	110
+	operating systems	BSE-5B	E&M-1	tue	143000	80
+	computer networks	BCS-5D	E&M-2	tue	083000	80
+	reserved		E&M-2	tue	100000	80
+	computer networks	BCS-5C	E&M-2	tue	113000	80
+	probability statistics	BDS-3A	E&M-2	tue	130000	80
+	marketing management	BCS-3A	E&M-2	tue	143000	80
+	marketing management	BCS-3B	E&M-2	tue	160000	80
+	reserved		E&M-3	tue	083000	170
+	digital logic design	BSR-3A	E&M-3	tue	113000	80
+	reserved		E&M-3	tue	130000	80
+	tech business writing	BCS-5M	E&M-3	tue	143000	80
+	reserved		E&M-4	tue	083000	170
+	software requirement eng	BSE-3C	E&M-4	tue	113000	80
+	reserved		E&M-4	tue	130000	80
+	functional english	BCS-1E	E&M-4	tue	143000	110
+	calculus and ana geometry	BCS-1K	E&M-5	tue	083000	80
+	information security	BSE-7B	E&M-5	tue	100000	80
+	human computer interaction	BSE-3A	E&M-5	tue	113000	80
+	human computer interaction	BSE-3B	E&M-5	tue	130000	80
+	functional english	BCS-1K	E&M-5	tue	143000	110
+	calculus and ana geometry	BCS-1H	E&M-11	tue	083000	80
+	numerical computing	BCS-5B	E&M-11	tue	100000	80
+	discrete structures	BDS-3B	E&M-11	tue	113000	80
+	applied physics	BSE-1A	E&M-11	tue	143000	80
+	calculus and ana geometry	BCS-1B	CE-1	tue	083000	80
+	functional english	BSE-1A	CE-1	tue	100000	110
+	tech business writing	BCS-5K	CE-1	tue	130000	80
+	functional english	BDS-1B	CE-1	tue	143000	110
+	international relations	BCS-3B	CE-2	tue	083000	80
+	mass communication	BSE-3A	CE-2	tue	100000	80
+	theory of automata	BCS-5J	CE-2	tue	113000	80
+	probability statistics	BDS-3B	CE-2	tue	143000	80
+	tech business writing	BSE-5B	CE-2	tue	160000	80
+	calculus and ana geometry	BCS-1F	CE-3	tue	083000	80
+	information security	BDS-7A	CE-3	tue	100000	80
+	blockchain and cryptocurrency	BDS-7A	CE-3	tue	113000	80
+	data analysis visualization	BDS-5B	CE-3	tue	130000	80
+	tech business writing	BCS-5B	CE-3	tue	143000	80
+	mass communication	BCS-3A	CS-1	tue	083000	80
+	mass communication	BCS-3B	CS-1	tue	100000	80
+	linear algebra	BCS-3F	CS-1	tue	113000	80
+	information security	BSE-7A	CS-1	tue	130000	80
+	calculus and ana geometry	BDS-1A	CS-1	tue	143000	80
+	intro to public policy	BCS-3A	CS-1	tue	160000	80
+	computer networks	BCS-5F	CS-8	tue	083000	80
+	computer networks	BCS-5J	CS-8	tue	100000	80
+	computer networks	BCS-5K	CS-8	tue	113000	80
+	mod politics gov	BSR-3B	CS-8	tue	130000	80
+	tech business writing	BCS-5L	CS-8	tue	143000	80
+	mod politics gov	BSR-3A	CS-8	tue	160000	80
+	foreign policy of pak	BCS-3B	E&M-16	tue	083000	80
+	design analysis of algo	BCS-5E	E&M-16	tue	100000	80
+	com presentation skills	BSR-5A	E&M-16	tue	113000	110
+	functional english	BCS-1A	E&M-16	tue	143000	110
+	functional english lab	BDS-1A1	English Lab-1	tue	083000	80
+	functional english lab	BCS-1K1	English Lab-1	tue	100000	80
+	functional english lab	BCS-1B1	English Lab-1	tue	113000	80
+	functional english lab	BCS-1F1	English Lab-1	tue	143000	80
+	functional english lab	BCS-1A1	English Lab-1	tue	163000	80
+	functional english lab	BDS-1A2	English Lab-2	tue	083000	80
+	functional english lab	BCS-1K2	English Lab-2	tue	100000	80
+	functional english lab	BCS-1B2	English Lab-2	tue	113000	80
+	functional english lab	BCS-1F2	English Lab-2	tue	143000	80
+	functional english lab	BCS-1A2	English Lab-2	tue	163000	80
+	com pres skills lab	BSR-5A1	English Lab-3	tue	083000	80
+	functional english lab	BDS-1B1	English Lab-3	tue	100000	80
+	functional english lab	BSE-1A1	English Lab-3	tue	130000	80
+	functional english lab	BCS-1H1	English Lab-3	tue	143000	80
+	com pres skills lab	BSR-5A2	English Lab-4	tue	083000	80
+	functional english lab	BDS-1B2	English Lab-4	tue	100000	80
+	functional english lab	BSE-1A2	English Lab-4	tue	130000	80
+	functional english lab	BCS-1H2	English Lab-4	tue	143000	80
+	intro to info comm technologies	BCS-1E	Lab(CS-1)	tue	083000	170
+	programming fundamentals lab	BDS-1B1, BDS-1B2	Lab(CS-1)	tue	113000	170
+	intro to info comm technologies	BCS-1G	Lab(CS-1)	tue	143000	170
+	fund of soft project manag	BSE-7B	Lab(CS-2A)	tue	083000	80
+	fund of soft project manag	BSE-7A	Lab(CS-2A)	tue	100000	80
+	programming fundamentals lab	BCS-1F1, BCS-1F2	Lab(CS-2A)	tue	113000	170
+	software requirement eng	BSE-3A	Lab(CS-2A)	tue	143000	80
+	data structures lab	BDS-3B1, BDS-3B2	Lab(CS-2B)	tue	083000	170
+	programming fundamentals lab	BCS-1H1, BCS-1H2	Lab(CS-2B)	tue	113000	170
+	com org assembly lang lab	BSR-3A1, BSR-3A2	Lab(CS-3)	tue	083000	170
+	programming fundamentals lab	BCS-1K1, BCS-1K2	Lab(CS-3)	tue	113000	170
+	reserved mgmt		Lab(CS-3)	tue	143000	170
+	computer networks lab	BCS-5L1,BCS-5L2	Lab(CS-4)	tue	083000	170
+	com org assembly lang lab	BCS-3C1, BCS-3C2	Lab(CS-4)	tue	113000	170
+	computer networks lab	BCS-5E1,BCS-5E2	Lab(CS-4)	tue	143000	170
+	programming fundamentals lab	BDS-1C1, BDS-1C2	Lab(CS-6)	tue	083000	170
+	computer networks lab	BCS-5H1,BCS-5H2	Lab(CS-6)	tue	113000	170
+	computer networks lab	BSR-5A1, BSR-5A2	Lab(CS-6)	tue	143000	170
+	reserved mgmt		Lab(CS-6)	tue	173000	170
+	reserved mgmt		Lab(CS-8)	tue	083000	170
+	data structures lab	BCS-3D1, BCS-3D2	Lab(CS-8)	tue	113000	170
+	reserved mgmt		Lab(CS-8)	tue	143000	170
+	data structures lab	BCS-3G1, BCS-3G2	Lab(CS-9)	tue	083000	170
+	com org assembly lang lab	BCS-3B1, BCS-3B2	Lab(CS-9)	tue	113000	170
+	data structures lab	BSE-3C1, BSE-3C2	Lab(CS-9)	tue	143000	170
+	digital logic design lab	BSR-3A1	Physics Lab	tue	083000	170
+	digital logic design lab	BSR-3A2	Micro Lab	tue	083000	170
+	computer speech processing	MDS-3A	Seminar Hall	wed	083000	170
+	software design analysis	BCS-5D	Seminar Hall	wed	113000	80
+	information security	BCS-7E	Seminar Hall	wed	130000	80
+	linear algebra	BCS-3C	Seminar Hall	wed	143000	80
+	linear algebra	BCS-3E	Seminar Hall	wed	160000	80
+	medical image processing	MCS-1A	Old Audi	wed	083000	80
+	applied physics	BDS-1B	Old Audi	wed	100000	80
+	data structures	BDS-3C	Old Audi	wed	113000	80
+	soft quality eng	BSE-5B	Old Audi	wed	130000	80
+	applied programming	MDS-1A	Old Audi	wed	143000	80
+	reserved mgmt		Old Audi	wed	173000	170
+	fund of computer vision	BCS-7B	CS-2	wed	083000	80
+	data structures	BCS-3B	CS-2	wed	100000	80
+	data structures	BCS-3A	CS-2	wed	113000	80
+	software design analysis	BCS-5K	CS-2	wed	130000	80
+	software requirement eng	BSE-3B	CS-2	wed	143000	80
+	intro to data science	BDS-3A	CS-2	wed	160000	80
+	management organizational behavior	MSP-1A	CS-2	wed	173000	170
+	theory of automata	BCS-5A	CS-3	wed	083000	80
+	theory of automata	BCS-5B	CS-3	wed	100000	80
+	database systems	BCS-5A	CS-3	wed	113000	80
+	theory of automata	BCS-5E	CS-3	wed	130000	80
+	database systems	BCS-5B	CS-3	wed	143000	80
+	compiler construction	BCS-7A	CS-3	wed	160000	80
+	quantum computing	BCS-7A	CS-3	wed	173000	80
+	com org assembly lang	BCS-3B	CS-4	wed	083000	80
+	com org assembly lang	BCS-3D	CS-4	wed	100000	80
+	com org assembly lang	BCS-3E	CS-4	wed	113000	80
+	com org assembly lang	BCS-3C	CS-4	wed	130000	80
+	com org assembly lang	BCS-3F	CS-4	wed	143000	80
+	probability statistics	BSE-3B	CS-4	wed	160000	80
+	tech business writing	BSE-5A	CS-4	wed	173000	80
+	discrete structures	BCS-3G	CS-5	wed	083000	80
+	information security	BCS-7C	CS-5	wed	100000	80
+	programming fundamentals	BCS-1C	CS-5	wed	113000	80
+	artificial intelligence	BCS-7A	CS-5	wed	130000	80
+	software design analysis	BCS-5L	CS-5	wed	143000	80
+	calculus and ana geometry	BDS-1C	CS-5	wed	160000	80
+	data warehousing bi	BDS-5B	CS-6	wed	100000	80
+	soft quality eng	BSE-5C	CS-6	wed	113000	80
+	discrete structures	BSR-3B	CS-6	wed	130000	80
+	f of big data analytics	BDS-5A	CS-6	wed	143000	80
+	numerical computing	BCS-5E	CS-6	wed	160000	80
+	object oriented programming	BSR-3A	CS-6	wed	173000	80
+	data structures	BDS-3B	CS-7	wed	083000	80
+	data structures	BDS-3A	CS-7	wed	100000	80
+	applied artificial intelligence	BSE-7A	CS-7	wed	113000	80
+	programming fundamentals	BSE-1B	CS-7	wed	143000	80
+	professional practices in it	BSE-7A	CS-7	wed	160000	80
+	professional practices in it	BCS-7E	CS-7	wed	173000	80
+	tech business writing	BDS-5A	CS-9	wed	083000	80
+	com org assembly lang	BDS-3B	CS-9	wed	100000	80
+	com org assembly lang	BSR-3A	CS-9	wed	113000	80
+	data structures	BSR-3A	CS-9	wed	130000	80
+	com org assembly lang	BDS-3A	CS-9	wed	143000	80
+	calculus and ana geometry	BSE-1C	CS-9	wed	160000	80
+	artificial intelligence	BCS-7B	CS-9	wed	173000	80
+	computer networks	BCS-5H	CS-10	wed	083000	80
+	data structures	BCS-3C	CS-10	wed	100000	80
+	data structures	BCS-3D	CS-10	wed	113000	80
+	data structures	BSE-3C	CS-10	wed	130000	80
+	web programming	BCS-7B	CS-10	wed	143000	80
+	numerical computing	BCS-5J	CS-10	wed	160000	80
+	computer networks	BSR-5A	CS-11	wed	083000	80
+	design analysis of algo	BSR-5A	CS-11	wed	100000	80
+	design analysis of algo	BDS-5C	CS-11	wed	113000	80
+	programming fundamentals	BSE-1A	CS-11	wed	130000	80
+	information security	BCS-7A	CS-11	wed	143000	80
+	probability statistics	BCS-5A	CS-11	wed	160000	80
+	tech business writing	BDS-5B	CS-15	wed	083000	80
+	programming fundamentals	BCS-1J	CS-15	wed	100000	80
+	operations research	BSE-5B	CS-15	wed	113000	80
+	data analysis visualization	BDS-5D	CS-15	wed	130000	80
+	linear algebra	BCS-3G	CS-15	wed	143000	80
+	linear algebra	BCS-3J	CS-15	wed	160000	80
+	software design analysis	BCS-5B	CS-16	wed	083000	80
+	calculus and ana geometry	BSE-1A	CS-16	wed	100000	80
+	data structures	BCS-3F	CS-16	wed	113000	80
+	data structures	BCS-3E	CS-16	wed	130000	80
+	probability statistics	BSE-3C	CS-16	wed	143000	80
+	entrepreneurship	BCS-3B	CS-16	wed	160000	80
+	entrepreneurship	BCS-3A	CS-16	wed	173000	80
+	operating systems	BCS-5C	Lib	wed	083000	80
+	tech business writing	BCS-5F	Lib	wed	100000	80
+	applied physics	BCS-1E	Lib	wed	113000	80
+	discrete structures	BCS-3A	Lib	wed	130000	80
+	numerical computing	BCS-5G	Lib	wed	143000	80
+	professional practices in it	BCS-7D	Lib	wed	160000	80
+	professional practices in it	BCS-7C	Lib	wed	173000	80
+	calculus and ana geometry	BCS-1A	E&M-1	wed	083000	80
+	discrete structures	BSR-3A	E&M-1	wed	100000	80
+	tech business writing	BDS-5D	E&M-1	wed	113000	80
+	applied physics	BCS-1G	E&M-1	wed	130000	80
+	calculus and ana geometry	BCS-1C	E&M-1	wed	143000	80
+	calculus and ana geometry	BCS-1D	E&M-1	wed	160000	80
+	calculus and ana geometry	BCS-1E	E&M-2	wed	083000	80
+	com org assembly lang	BSR-3B	E&M-2	wed	113000	80
+	applied physics	BCS-1J	E&M-2	wed	130000	80
+	operations research	BSE-5C	E&M-2	wed	143000	80
+	theory of automata	BCS-5H	E&M-2	wed	160000	80
+	calculus and ana geometry	BCS-1G	E&M-3	wed	083000	80
+	software design analysis	BCS-5A	E&M-3	wed	100000	80
+	functional english	BCS-1H	E&M-3	wed	113000	110
+	numerical computing	BCS-5K	E&M-3	wed	143000	80
+	professional practices in it	BCS-7B	E&M-3	wed	160000	80
+	reserved		E&M-4	wed	083000	80
+	reserved		E&M-4	wed	100000	80
+	computer networks	BCS-5B	E&M-4	wed	113000	80
+	applied physics	BCS-1B	E&M-4	wed	130000	80
+	applied physics	BCS-1A	E&M-4	wed	143000	80
+	linear algebra	BSR-3A	E&M-4	wed	160000	80
+	discrete structures	BCS-3C	E&M-5	wed	083000	80
+	software design analysis	BSR-5A	E&M-5	wed	100000	80
+	discrete structures	BCS-3B	E&M-5	wed	113000	80
+	applied physics	BDS-1C	E&M-5	wed	130000	80
+	discrete structures	BCS-3J	E&M-5	wed	143000	80
+	international relations	BCS-3A	E&M-5	wed	160000	80
+	calculus and ana geometry	BCS-1J	E&M-11	wed	083000	80
+	software design analysis	BCS-5C	E&M-11	wed	100000	80
+	computer networks	BCS-5E	E&M-11	wed	113000	80
+	applied physics	BDS-1A	E&M-11	wed	130000	80
+	applied physics	BCS-1H	E&M-11	wed	143000	80
+	probability statistics	BDS-3C	E&M-11	wed	160000	80
+	tech business writing	BCS-5D	CE-1	wed	083000	80
+	programming fundamentals	BCS-1H	CE-1	wed	100000	80
+	computer networks	BCS-5L	CE-1	wed	113000	80
+	software design analysis	BCS-5H	CE-1	wed	130000	80
+	calculus and ana geometry	BDS-1B	CE-1	wed	143000	80
+	intro to public policy	BSE-3A	CE-2	wed	083000	80
+	discrete structures	BCS-3F	CE-2	wed	100000	80
+	com org assembly lang	BCS-3G	CE-2	wed	113000	80
+	com org assembly lang	BCS-3H	CE-2	wed	130000	80
+	information security	BCS-7D	CE-2	wed	143000	80
+	soft const development	BSE-5B	CE-2	wed	160000	80
+	parallel dist computing	BDS-7A	CE-3	wed	083000	80
+	design analysis of algo	BCS-5D	CE-3	wed	100000	80
+	design analysis of algo	BCS-5C	CE-3	wed	113000	80
+	applied physics	BCS-1F	CE-3	wed	130000	80
+	applied physics	BCS-1K	CE-3	wed	143000	80
+	computer networks	BDS-7B	CE-3	wed	160000	80
+	tech business writing	BCS-5G	CS-1	wed	083000	80
+	operations research	BSE-5A	CS-1	wed	100000	80
+	fund of computer vision	BCS-7A	CS-1	wed	113000	80
+	numerical computing	BSR-5A	CS-1	wed	130000	80
+	foreign policy of pak	BCS-3A	CS-1	wed	143000	80
+	applied physics	BSE-1B	CS-1	wed	160000	80
+	calculus and ana geometry	BSE-1B	CS-8	wed	083000	80
+	brand management	BSE-3A	CS-8	wed	100000	80
+	intro to data science	BDS-3B	CS-8	wed	113000	80
+	intro to data science	BDS-3C	CS-8	wed	130000	80
+	functional english	BDS-1A	CS-8	wed	143000	110
+	reserved for hss dept		CS-8	wed	162000	60
+	discrete structures	BDS-3C	E&M-16	wed	083000	80
+	data analysis visualization	BDS-5A	E&M-16	wed	100000	80
+	information security	BCS-7B	E&M-16	wed	113000	80
+	linear algebra	BCS-3H	E&M-16	wed	143000	80
+	reserved for mgmt dept		E&M-16	wed	160000	80
+	functional english lab	BCS-1C1	English Lab-1	wed	130000	80
+	functional english lab	BCS-1G1	English Lab-1	wed	143000	80
+	functional english lab	BCS-1C2	English Lab-2	wed	130000	80
+	functional english lab	BCS-1G2	English Lab-2	wed	143000	80
+	functional english lab	BDS-1C1	English Lab-3	wed	083000	80
+	functional english lab	BCS-1E1	English Lab-3	wed	100000	80
+	functional english lab	BSE-1B1	English Lab-3	wed	113000	80
+	functional english lab	BCS-1J1	English Lab-3	wed	143000	80
+	functional english lab	BDS-1C2	English Lab-4	wed	083000	80
+	functional english lab	BCS-1E2	English Lab-4	wed	100000	80
+	functional english lab	BSE-1B2	English Lab-4	wed	113000	80
+	functional english lab	BCS-1J2	English Lab-4	wed	143000	80
+	programming fundamentals lab	BCS-1D1, BCS-1D2	Lab(CS-1)	wed	083000	170
+	reserved for ee		Lab(CS-1)	wed	143000	170
+	computer networks lab	BCS-5G1,BCS-5G2	Lab(CS-2A)	wed	113000	170
+	operating systems lab	BDS-5C1,BDS-5C2	Lab(CS-2B)	wed	143000	170
+	intro to info comm technologies	BSE-1C	Lab(CS-3)	wed	083000	170
+	operating systems lab	BDS-5A1,BDS-5A2	Lab(CS-3)	wed	113000	170
+	linear algebra	BSR-3B	Lab(CS-3)	wed	143000	80
+	programming fundamentals lab	BDS-1A1, BDS-1A2	Lab(CS-4)	wed	083000	170
+	intro to info comm technologies	BCS-1B	Lab(CS-4)	wed	143000	170
+	computer networks lab	BCS-5K1,BCS-5K2	Lab(CS-6)	wed	083000	170
+	computer networks lab	BCS-5F1,BCS-5F2	Lab(CS-6)	wed	113000	170
+	computer networks lab	BCS-5D1,BCS-5D2	Lab(CS-6)	wed	143000	170
+	reserved mgmt		Lab(CS-6)	wed	173000	170
+	data structures lab	BCS-3H1, BCS-3H2	Lab(CS-8)	wed	083000	170
+	reserved mgmt		Lab(CS-8)	wed	143000	170
+	computer networks lab	BCS-5J1,BCS-5J2	Lab(CS-9)	wed	113000	170
+	reserved mgmt		Lab(CS-9)	wed	143000	170
+	discrete structures	BCS-3D	Seminar Hall	thu	083000	80
+	linear algebra	BCS-3D	Seminar Hall	thu	100000	80
+	linear algebra	BCS-3A	Seminar Hall	thu	113000	80
+	numerical computing	BCS-5L	Seminar Hall	thu	130000	80
+	linear algebra	BCS-3B	Seminar Hall	thu	143000	80
+	reserved		Old Audi	thu	083000	260
+	computer networks	BSE-7A	Old Audi	thu	143000	80
+	reserved mgmt		Old Audi	thu	180000	140
+	computer networks	BDS-7A	CS-2	thu	083000	80
+	deep learning	MCS-1A	CS-2	thu	100000	170
+	software design analysis	BCS-5F	CS-2	thu	130000	80
+	operating systems	BSE-5A	CS-2	thu	143000	80
+	operating systems	BDS-5C	CS-2	thu	160000	80
+	adavanced software engineering	MSP-3A	CS-2	thu	173000	170
+	tech business writing	BCS-5E	CS-3	thu	083000	80
+	numerical computing	BCS-5D	CS-3	thu	100000	80
+	data warehousing dm	BCS-7A	CS-3	thu	113000	80
+	theory of automata	BCS-5G	CS-3	thu	130000	80
+	data warehousing bi	BDS-5A	CS-3	thu	143000	80
+	web programming	BCS-7A	CS-3	thu	160000	80
+	software testing	BCS-7A	CS-4	thu	083000	80
+	database systems	BSE-5A	CS-4	thu	100000	80
+	theory of automata	BCS-5D	CS-4	thu	113000	80
+	parallel dist computing	BCS-7A	CS-4	thu	130000	80
+	software engineering	BCS-7A	CS-4	thu	143000	80
+	tech business writing	BCS-5C	CS-4	thu	160000	80
+	programming fundamentals	BCS-1A	CS-5	thu	083000	80
+	programming fundamentals	BDS-1A	CS-5	thu	100000	80
+	soft const development	BSE-5A	CS-5	thu	113000	80
+	operating systems	BCS-5B	CS-5	thu	130000	80
+	data science	BCS-7B	CS-5	thu	143000	80
+	data science	BCS-7A	CS-5	thu	160000	80
+	programming fundamentals	BCS-1H	CS-6	thu	100000	80
+	programming fundamentals	BCS-1E	CS-6	thu	113000	80
+	numerical computing	BCS-5A	CS-6	thu	130000	80
+	programming fundamentals	BCS-1D	CS-6	thu	143000	80
+	operating systems	BCS-5A	CS-6	thu	160000	80
+	quantum computing	BCS-9A	CS-6	thu	173000	80
+	data structures	BSR-3B	CS-7	thu	083000	80
+	advanced programming	BCS-7A	CS-7	thu	100000	80
+	com org assembly lang	BCS-3A	CS-7	thu	130000	80
+	professional practices in it	BDS-7B	CS-7	thu	143000	80
+	digital logic design	BDS-3A	CS-7	thu	160000	80
+	soft quality eng	BSE-5A	CS-9	thu	083000	80
+	theory of automata	BCS-5C	CS-9	thu	100000	80
+	data structures	BSE-3B	CS-9	thu	113000	80
+	data structures	BSE-3A	CS-9	thu	130000	80
+	marketing management	BCS-3A	CS-9	thu	143000	80
+	software design analysis	BCS-5M	CS-9	thu	160000	80
+	operating systems	BDS-5A	CS-10	thu	083000	80
+	design analysis of algo	BDS-5B	CS-10	thu	100000	80
+	data structures	BCS-3G	CS-10	thu	113000	80
+	data structures	BCS-3H	CS-10	thu	130000	80
+	computer networks	BCS-5G	CS-10	thu	143000	80
+	operating systems	BDS-5B	CS-11	thu	083000	80
+	programming fundamentals	BCS-1F	CS-11	thu	100000	80
+	programming fundamentals	BCS-1G	CS-11	thu	113000	80
+	design analysis of algo	BDS-5A	CS-11	thu	130000	80
+	database systems	BCS-5C	CS-11	thu	143000	80
+	marketing management	BCS-3B	CS-11	thu	160000	80
+	tech business writing	BDS-5C	CS-15	thu	083000	80
+	programming fundamentals	BCS-1B	CS-15	thu	100000	80
+	software design analysis	BCS-5E	CS-15	thu	113000	80
+	human computer interaction	BSE-3C	CS-15	thu	130000	80
+	data analysis visualization	BDS-5C	CS-15	thu	143000	80
+	theory of automata	BCS-5M	CS-16	thu	083000	80
+	discrete structures	BCS-3E	CS-16	thu	100000	80
+	software design analysis	BCS-5G	CS-16	thu	113000	80
+	obj oriented programming	BSE-3A	CS-16	thu	130000	80
+	applied physics	BCS-1C	CS-16	thu	143000	80
+	applied physics	BCS-1D	CS-16	thu	160000	80
+	computer networks	BCS-5A	Lib	thu	100000	80
+	database systems	BDS-5A	Lib	thu	113000	80
+	blockchain and cryptocurrency	BDS-7B	Lib	thu	130000	80
+	numerical computing	BCS-5H	Lib	thu	143000	80
+	tech business writing	BCS-5A	E&M-1	thu	083000	80
+	theory of automata	BSR-5A	E&M-1	thu	100000	80
+	functional english	BCS-1D	E&M-1	thu	113000	110
+	operating systems	BSE-5B	E&M-1	thu	143000	80
+	computer networks	BCS-5D	E&M-2	thu	083000	80
+	reserved		E&M-2	thu	100000	80
+	computer networks	BCS-5C	E&M-2	thu	113000	80
+	probability statistics	BDS-3A	E&M-2	thu	130000	80
+	software design analysis	BCS-5J	E&M-2	thu	143000	80
+	reserved		E&M-3	thu	083000	80
+	digital logic design	BSR-3A	E&M-3	thu	113000	80
+	reserved		E&M-3	thu	130000	80
+	applied physics	BSE-1A	E&M-3	thu	143000	80
+	reserved		E&M-4	thu	083000	80
+	reserved		E&M-4	thu	100000	80
+	software requirement eng	BSE-3C	E&M-4	thu	113000	80
+	reserved		E&M-4	thu	130000	80
+	calculus and ana geometry	BDS-1A	E&M-4	thu	143000	80
+	calculus and ana geometry	BCS-1K	E&M-5	thu	083000	80
+	information security	BSE-7B	E&M-5	thu	100000	80
+	human computer interaction	BSE-3A	E&M-5	thu	113000	80
+	human computer interaction	BSE-3B	E&M-5	thu	130000	80
+	tech business writing	BCS-5M	E&M-5	thu	143000	80
+	calculus and ana geometry	BCS-1H	E&M-11	thu	083000	80
+	big data	MDS-1A	E&M-11	thu	100000	170
+	tech business writing	BCS-5K	E&M-11	thu	130000	80
+	probability statistics	BSE-3A	E&M-11	thu	143000	80
+	probability statistics	BSE-3B	E&M-11	thu	160000	80
+	calculus and ana geometry	BCS-1B	CE-1	thu	083000	80
+	numerical computing	BCS-5B	CE-1	thu	100000	80
+	functional english	BCS-1J	CE-1	thu	113000	110
+	functional english	BDS-1C	CE-1	thu	143000	110
+	international relations	BCS-3B	CE-2	thu	083000	80
+	mass communication	BSE-3A	CE-2	thu	100000	80
+	theory of automata	BCS-5J	CE-2	thu	113000	80
+	digital logic design	BCS-3A	CE-2	thu	143000	80
+	tech business writing	BSE-5B	CE-2	thu	160000	80
+	calculus and ana geometry	BCS-1F	CE-3	thu	083000	80
+	information security	BDS-7A	CE-3	thu	100000	80
+	discrete structures	BDS-3B	CE-3	thu	113000	80
+	data analysis visualization	BDS-5B	CE-3	thu	130000	80
+	tech business writing	BCS-5B	CE-3	thu	143000	80
+	tech business writing	BSE-5C	CE-3	thu	160000	80
+	mass communication	BCS-3A	CS-1	thu	083000	80
+	mass communication	BCS-3B	CS-1	thu	100000	80
+	linear algebra	BCS-3F	CS-1	thu	113000	80
+	information security	BSE-7A	CS-1	thu	130000	80
+	object oriented programming	BSR-3A	CS-1	thu	143000	80
+	intro to public policy	BCS-3A	CS-1	thu	160000	80
+	computer networks	BCS-5F	CS-8	thu	083000	80
+	computer networks	BCS-5J	CS-8	thu	100000	80
+	computer networks	BCS-5K	CS-8	thu	113000	80
+	mod politics gov	BSR-3B	CS-8	thu	130000	80
+	tech business writing	BCS-5L	CS-8	thu	143000	80
+	mod politics gov	BSR-3A	CS-8	thu	160000	80
+	foreign policy of pak	BCS-3B	E&M-16	thu	083000	80
+	design analysis of algo	BCS-5E	E&M-16	thu	100000	80
+	blockchain and cryptocurrency	BDS-7A	E&M-16	thu	113000	80
+	probability statistics	BDS-3B	E&M-16	thu	143000	80
+	functional english lab	BDS-1A1	English Lab-1	thu	083000	80
+	functional english lab	BCS-1K1	English Lab-1	thu	100000	80
+	functional english lab	BCS-1B1	English Lab-1	thu	113000	80
+	functional english lab	BCS-1F1	English Lab-1	thu	143000	80
+	functional english lab	BCS-1A1	English Lab-1	thu	160000	80
+	functional english lab	BDS-1A2	English Lab-2	thu	083000	80
+	functional english lab	BCS-1K2	English Lab-2	thu	100000	80
+	functional english lab	BCS-1B2	English Lab-2	thu	113000	80
+	functional english lab	BCS-1F2	English Lab-2	thu	143000	80
+	functional english lab	BCS-1A2	English Lab-2	thu	160000	80
+	functional english lab	BCS-1D1	English Lab-3	thu	083000	80
+	functional english lab	BDS-1B1	English Lab-3	thu	100000	80
+	functional english lab	BSE-1A1	English Lab-3	thu	130000	80
+	functional english lab	BCS-1H1	English Lab-3	thu	143000	80
+	com pres skills lab	BSR-5A1	English Lab-3	thu	160000	80
+	functional english lab	BCS-1D2	English Lab-4	thu	083000	80
+	functional english lab	BDS-1B2	English Lab-4	thu	100000	80
+	functional english lab	BSE-1A2	English Lab-4	thu	130000	80
+	functional english lab	BCS-1H2	English Lab-4	thu	143000	80
+	com pres skills lab	BSR-5A2	English Lab-4	thu	160000	80
+	fund of soft project manag	BSE-7B	Lab(CS-1)	thu	083000	80
+	fund of soft project manag	BSE-7A	Lab(CS-1)	thu	100000	80
+	programming fundamentals lab	BSE-1B1, BSE-1B2	Lab(CS-1)	thu	113000	170
+	intro to info comm technologies	BCS-1J	Lab(CS-1)	thu	143000	170
+	data structures lab	BSR-3A1, BSR-3A2	Lab(CS-2A)	thu	083000	170
+	data structures lab	BCS-3B1, BCS-3B2	Lab(CS-2A)	thu	113000	170
+	intro to info comm technologies	BSE-1B	Lab(CS-2A)	thu	143000	170
+	intro to info comm technologies	BCS-1F	Lab(CS-2B)	thu	113000	170
+	data structures lab	BCS-3E1, BCS-3E2	Lab(CS-2B)	thu	143000	170
+	data structures lab	BDS-3A1, BDS-3A2	Lab(CS-3)	thu	083000	170
+	com org assembly lang lab	BCS-3F1, BCS-3F2	Lab(CS-3)	thu	143000	170
+	com org assembly lang lab	BDS-3B1, BDS-3B2	Lab(CS-4)	thu	083000	170
+	com org assembly lang lab	BCS-3D1, BCS-3D2	Lab(CS-4)	thu	113000	170
+	reserved for ee		Lab(CS-4)	thu	143000	170
+	programming fundamentals lab	BCS-1J1, BCS-1J2	Lab(CS-6)	thu	083000	170
+	programming fundamentals lab	BCS-1A1, BCS-1A2	Lab(CS-6)	thu	113000	170
+	programming fundamentals lab	BCS-1G1, BCS-1G2	Lab(CS-6)	thu	143000	170
+	intro to info comm technologies	BDS-1C	Lab(CS-8)	thu	083000	170
+	data structures lab	BCS-3C1, BCS-3C2	Lab(CS-8)	thu	113000	170
+	data analysis visualization lab	BDS-5B1, BDS-5B2	Lab(CS-8)	thu	143000	170
+	programming fundamentals lab	BSE-1A1, BSE-1A2	Lab(CS-9)	thu	083000	170
+	data structures lab	BDS-3C1, BDS-3C2	Lab(CS-9)	thu	113000	170
+	reserved mgmt		Lab(CS-9)	thu	143000	170
+	data mining analytics	MCS-1A	Seminar Hall	fri	083000	170
+	time series prediction	MDS-3A	Seminar Hall	fri	143000	170
+	ideology and const of pak	BCS-1C	Old Audi	fri	103000	110
+	reserved mgmt		Old Audi	fri	181000	130
+	calculus and ana geometry	BSE-1A	CS-2	fri	100000	80
+	com org assembly lang	BCS-3J	CS-2	fri	113000	80
+	professional practices in it	BCS-7A	CS-2	fri	143000	80
+	advanced programming	BCS-7A	CS-2	fri	160000	80
+	tech business writing	BCS-5D	CS-3	fri	083000	80
+	professional practices in it	BSE-7B	CS-3	fri	100000	170
+	discrete structures	BCS-3J	CS-3	fri	143000	80
+	internet of things	BCS-9A	CS-3	fri	160000	80
+	funda of software eng	BDS-5A	CS-4	fri	083000	80
+	theory of automata	BCS-5F	CS-4	fri	113000	80
+	theory of automata	BCS-5F	CS-4	fri	143000	80
+	software for mobile devices	BSE-7A	CS-5	fri	083000	80
+	programming fundamentals	BCS-1K	CS-5	fri	100000	80
+	design analysis of algo	BCS-5B	CS-5	fri	160000	80
+	design analysis of algo	BCS-5A	CS-5	fri	173000	80
+	operations research	BCS-7A	CS-6	fri	083000	80
+	software for mobile devices	BCS-7A	CS-6	fri	100000	80
+	f of big data analytics	BDS-5A	CS-6	fri	143000	80
+	discrete structures	BCS-3H	CS-6	fri	160000	80
+	practicum i ii	MSP-3A	CS-7	fri	083000	170
+	numerical computing	BCS-5M	CS-7	fri	113000	80
+	professional practices in it	BCS-7F	CS-7	fri	143000	80
+	numerical computing	BCS-5F	CS-7	fri	160000	80
+	professional practices in it	BCS-7E	CS-7	fri	173000	80
+	object oriented programming	BCS-3B	CS-9	fri	083000	80
+	object oriented programming	BCS-3A	CS-9	fri	100000	80
+	web programming	BCS-7B	CS-9	fri	143000	80
+	calculus and ana geometry	BSE-1C	CS-9	fri	160000	80
+	programming fundamentals	BDS-1B	CS-10	fri	083000	80
+	programming fundamentals	BDS-1C	CS-10	fri	100000	80
+	bioinformatics	BCS-9A	CS-10	fri	143000	80
+	digital logic design	BDS-3A	CS-10	fri	160000	80
+	ideology and const of pak	BCS-1A	CS-11	fri	103000	110
+	software design analysis	BCS-5A	CS-15	fri	100000	80
+	software design analysis	BCS-5B	CS-16	fri	083000	80
+	software design analysis	BCS-5C	CS-16	fri	100000	80
+	software design analysis	BCS-5D	CS-16	fri	113000	80
+	entrepreneurship	BCS-3B	CS-16	fri	160000	80
+	entrepreneurship	BCS-3A	CS-16	fri	173000	80
+	discrete structures	BDS-3A	Lib	fri	083000	80
+	tech business writing	BCS-5F	Lib	fri	100000	80
+	discrete structures	BCS-3A	Lib	fri	113000	80
+	ideology and const of pak	BSE-1A	Lib	fri	143000	110
+	ideology and const of pak	BDS-1A	E&M-1	fri	083000	110
+	ideology and const of pak	BCS-1D	E&M-1	fri	103000	110
+	ideology and const of pak	BCS-1E	E&M-1	fri	143000	110
+	ideology and const of pak	BCS-1B	E&M-2	fri	103000	110
+	islamic studies ethics	BCS-1K	E&M-2	fri	143000	110
+	ideology and const of pak	BSE-1B	E&M-3	fri	083000	110
+	ideology and const of pak	BDS-1B	E&M-4	fri	103000	110
+	islamic studies ethics	BCS-1F	E&M-5	fri	083000	110
+	islamic studies ethics	BCS-1G	E&M-5	fri	103000	110
+	ideology and const of pak	BDS-1C	E&M-5	fri	143000	110
+	islamic studies ethics	BCS-1H	E&M-11	fri	083000	110
+	islamic studies ethics	BCS-1J	E&M-11	fri	103000	110
+	object oriented programming	BDS-3A	CE-1	fri	083000	80
+	functional english	BSE-1B	CE-1	fri	103000	110
+	digital logic design	BCS-3A	CE-1	fri	143000	80
+	design analysis of algo	BCS-5D	CE-3	fri	100000	80
+	design analysis of algo	BCS-5C	CE-3	fri	113000	80
+	tech business writing	BSE-5C	CE-3	fri	160000	80
+	tech business writing	BCS-5J	CS-1	fri	083000	80
+	tech business writing	BCS-5H	CS-1	fri	100000	80
+	data structures lab	BCS-3A1, BCS-3A2	Lab(CS-1)	fri	083000	170
+	com org assembly lang lab	BCS-3A1, BCS-3A2	Lab(CS-1)	fri	143000	170
+	database systems lab	BCS-5B1,BCS-5B2	Lab(CS-2A)	fri	083000	170
+	database systems lab	BCS-5A1,BCS-5A2	Lab(CS-2A)	fri	143000	170
+	com org assembly lang lab	BCS-3G1, BCS-3G2	Lab(CS-2B)	fri	100000	170
+	database systems lab	BDS-5A1,BDS-5A2	Lab(CS-2B)	fri	160000	170
+	com org assembly lang lab	BCS-3H1, BCS-3H2	Lab(CS-3)	fri	083000	170
+	com org assembly lang lab	BDS-3A1, BDS-3A2	Lab(CS-4)	fri	100000	170
+	intro to info comm technologies	BDS-1B	Lab(CS-4)	fri	143000	170
+	object oriented programming lab	BCS-3B1,BCS-3B2	Lab(CS-6)	fri	100000	170
+	programming fundamentals lab	BCS-1C1, BCS-1C2	Lab(CS-6)	fri	143000	170
+	reserved mgmt		Lab(CS-6)	fri	173000	170
+	data structures lab	BCS-3F1, BCS-3F2	Lab(CS-8)	fri	083000	170
+	object oriented programming lab	BCS-3A1,BCS-3A2	Lab(CS-8)	fri	143000	170
+	programming fundamentals lab	BCS-1E1, BCS-1E2	Lab(CS-9)	fri	100000	170
+	com org assembly lang lab	BCS-3E1, BCS-3E2	Lab(CS-9)	fri	143000	170
+	reserved civil department		Lab(CS-9)	fri	173000	170
+	digital logic design lab	BDS-3A1	Physics Lab	fri	100000	170
+	digital logic design lab	BCS-3A1	Physics Lab	fri	173000	170
+	digital logic design lab	BDS-3A2	Micro Lab	fri	100000	170
+	digital logic design lab	BCS-3A2	Micro Lab	fri	173000	170
+	applied programming	MCS-1A	Seminar Hall	sat	083000	170
+	advanced theory of computation	MCS-1A	Seminar Hall	sat	113000	170
+	numerical computing	BCS-5F	CS-2	sat	083000	80
+	numerical computing	BCS-5C	CS-2	sat	100000	80
+	design analysis of algo	BCS-5A	CS-2	sat	143000	80
+	design analysis of algo	BCS-5B	CS-2	sat	160000	80
+	data warehousing bi	BDS-5C	CS-2	sat	173000	80
+	information security	BDS-7B	CS-3	sat	083000	170
+	information security	BCS-7F	CS-3	sat	143000	170
+	funda of software eng	BDS-5A	CS-4	sat	100000	80
+	theory of automata	BCS-5M	CS-5	sat	083000	80
+	software for mobile devices	BSE-7A	CS-5	sat	100000	80
+	software for mobile devices	BCS-7A	CS-5	sat	113000	80
+	data warehousing bi	BDS-5C	CS-5	sat	143000	170
+	operations research	BCS-7A	CS-6	sat	100000	80
+	differential equations	BCS-3A	CS-1	sat	083000	80
+	artificial intelligence lab	BCS-7B1,BCS-7B2	Lab(CS-1)	sat	083000	170
+	f of big data analytics lab	BDS-5A1,BDS-5A2	Lab(CS-1)	sat	113000	170
+	soft const development lab	BSE-5A1,BSE-5A2	Lab(CS-2A)	sat	083000	170
+	operating systems lab	BSE-5A1,BSE-5A2	Lab(CS-2A)	sat	113000	170
+	object oriented programming lab	BSR-3A1,BSR-3A2	Lab(CS-2A)	sat	143000	170
+	soft const development lab	BSE-5B1,BSE-5B2	Lab(CS-2B)	sat	083000	170
+	operating systems lab	BSE-5B1,BSE-5B2	Lab(CS-2B)	sat	113000	170
+	database systems lab	BSE-5A1,BSE-5A2	Lab(CS-2B)	sat	143000	170
+	data structures lab	BSR-3B1, BSR-3B2	Lab(CS-3)	sat	083000	170
+	database systems lab	BCS-5C1,BCS-5C2	Lab(CS-3)	sat	113000	170
+	artificial intelligence lab	BCS-7A1,BCS-7A2	Lab(CS-3)	sat	143000	170
+	operating systems lab	BCS-5B1,BCS-5B2	Lab(CS-4)	sat	083000	170
+	operating systems lab	BCS-5A1,BCS-5A2	Lab(CS-4)	sat	113000	170
+	object oriented programming lab	BSE-3A1,BSE-3A2	Lab(CS-4)	sat	143000	170
+	computer networks lab	BCS-5A1,BCS-5A2	Lab(CS-6)	sat	083000	170
+	computer networks lab	BCS-5B1,BCS-5B2	Lab(CS-6)	sat	113000	170
+	computer networks lab	BCS-5C1,BCS-5C2	Lab(CS-6)	sat	143000	170
+	object oriented programming lab	BDS-3A1,BDS-3A2	Lab(CS-8)	sat	083000	170
+	computer networks lab	BSE-7A1, BSE-7A2	Lab(CS-8)	sat	113000	170
+	reserved mgmt		Lab(CS-8)	sat	143000	170
+	computer networks lab	BDS-7A1, BDS-7A2	Lab(CS-9)	sat	083000	170
+	computer networks lab	BDS-7B1,BDS-7B2	Lab(CS-9)	sat	113000	170
+	0			sat	080000	30
+	154			sat	083000	10
+	0			sat	084000	80
+	125			sat	100000	10
+	0			sat	101000	20
+	8			sat	103000	10
+	0			sat	104000	50
+	134			sat	113000	10
+	0			sat	114000	80
+	95			sat	130000	10
+	0			sat	131000	70
+	1			sat	142000	10
+	161			sat	143000	10
+	0			sat	144000	80
+	81			sat	160000	10
+	0			sat	161000	10
+	1			sat	162000	10
+	2			sat	163000	10
+	0			sat	164000	50
+	30			sat	173000	10
+	0			sat	174000	20
+	1			sat	180000	20
+	0			sat	182000	40
+	1			sat	190000	10
+	0			sat	191000	40
+over
