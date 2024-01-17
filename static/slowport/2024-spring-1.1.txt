@@ -1,0 +1,793 @@
+tt.ods[0]
+	multivariate calculus	BCS-2H	Seminar Hall	mon	082000	80
+	multivariate calculus	BCS-2J	Seminar Hall	mon	095000	80
+	multivariate calculus	BCS-2K	Seminar Hall	mon	125000	80
+	multivariate calculus	BCS-2F	Seminar Hall	mon	142000	80
+	database systems	BCS-4F	NB-201	mon	082000	80
+	theory of programming languages	MCS-2A	NB-201	mon	095000	170
+	parallel distributed comp	BCS-6J	NB-201	mon	125000	80
+	artificial intelligence	BCS-6F	NB-201	mon	142000	80
+	programming fundamentals	BCS-2A	NB-201	mon	155000	80
+	software quality assurance	MSP-2A	NB-201	mon	172000	170
+	digital image processing	BCS-6A	NB-202	mon	082000	80
+	object oriented programming	BCS-2K	NB-202	mon	095000	80
+	object oriented programming	BCS-2A	NB-202	mon	112000	80
+	software engineering	BCS-6E	NB-202	mon	142000	80
+	programming fundamentals	BDS-2A	NB-202	mon	155000	80
+	digital logic design	BCS-2B	NB-203	mon	082000	80
+	digital logic design	BCS-2A	NB-203	mon	095000	80
+	digital image processing	BCS-6B	NB-203	mon	112000	80
+	object oriented programming	BCS-2B	NB-203	mon	125000	80
+	applied programming	MCS-2A	NB-203	mon	142000	80
+	differential equations	BCS-4A	NB-203	mon	155000	80
+	software engineering	BCS-6A	NB-204	mon	082000	80
+	database systems	BCS-4C	NB-204	mon	095000	80
+	database systems	BCS-4D	NB-204	mon	112000	80
+	business process eng	BSE-4A	NB-204	mon	125000	80
+	business process eng	BSE-4B	NB-204	mon	142000	80
+	research methdology	MDS-2A	NB-205	mon	082000	170
+	intro to internet of things	BSE-8A	NB-205	mon	112000	80
+	com org assembly lang	BCS-4B	NB-205	mon	125000	80
+	com org assembly lang	BCS-4A	NB-205	mon	142000	80
+	parallel distributed comp	BCS-6D	NB-206	mon	082000	80
+	parallel distributed comp	BCS-6E	NB-206	mon	095000	80
+	blockchain crypto	BCS-6A	NB-206	mon	112000	80
+	data structures	BCS-4A	NB-206	mon	125000	80
+	artificial intelligence	BDS-6D	NB-206	mon	142000	80
+	operating systems	BCS-4A	NB-207	mon	082000	80
+	natural laguage processing	BDS-8A	NB-207	mon	095000	80
+	operating systems	BCS-4B	NB-207	mon	112000	80
+	compiler construction	BCS-6B	NB-207	mon	125000	80
+	software design and analysis	BCS-6A	NB-207	mon	142000	80
+	software engineering	BCS-6K	NB-208	mon	082000	80
+	database systems	BCS-4G	NB-208	mon	095000	80
+	design analysis of algo	BCS-4G	NB-208	mon	112000	80
+	design analysis of algo	BCS-4H	NB-208	mon	125000	80
+	object oriented programming	BDS-2A	NB-208	mon	142000	80
+	artificial intelligence	BDS-6A	NB-209	mon	082000	80
+	software testing	BCS-8A	NB-209	mon	095000	80
+	database systems	BCS-4J	NB-209	mon	112000	80
+	enviromental data science	BCS-8A	NB-209	mon	125000	80
+	artificial intelligence	BCS-6L	NB-209	mon	142000	80
+	database systems	BDS-4A	NB-210	mon	082000	80
+	software engineering	BCS-6F	NB-210	mon	095000	80
+	database systems	BDS-4B	NB-210	mon	112000	80
+	database systems	BDS-4C	NB-210	mon	125000	80
+	parallel distributed comp	BCS-6H	NB-301	mon	082000	80
+	probability statistics	BCS-4F	NB-301	mon	125000	80
+	entrepreneurship	BCS-8A	NB-301	mon	142000	80
+	parallel distributed comp	BDS-6B	NB-302	mon	082000	80
+	cyber security	BCS-6A	NB-302	mon	095000	80
+	web programming	BCS-8A	NB-302	mon	112000	80
+	parallel distributed comp	BCS-6C	NB-302	mon	125000	80
+	environmental studies	BSE-8A	NB-302	mon	142000	80
+	parallel distributed comp	BDS-6C	NB-303	mon	082000	80
+	intro to internet of things	BCS-8A	NB-303	mon	095000	80
+	soft design architecture	BSE-4C	NB-303	mon	112000	80
+	soft design architecture	BSE-4D	NB-303	mon	125000	80
+	natural laguage processing	BDS-6B	NB-303	mon	142000	80
+	information retrieval	BCS-8A	NB-304	mon	082000	80
+	information retrieval	BCS-8B	NB-304	mon	095000	80
+	artificial intelligence	BCS-6G	NB-304	mon	112000	80
+	operating systems	BCS-4D	NB-304	mon	125000	80
+	object oriented programming	BCS-2C	NB-304	mon	142000	80
+	web programming	BDS-8B	NB-305	mon	082000	80
+	artificial intelligence	BCS-6A	NB-305	mon	112000	80
+	artificial intelligence	BCS-6B	NB-305	mon	125000	80
+	modern politics govt	BCS-4A	NB-305	mon	142000	80
+	database systems	BSE-4C	NB-306	mon	082000	80
+	web programming	BCS-6A	NB-306	mon	095000	80
+	design analysis of algo	BSE-6C	NB-306	mon	112000	80
+	data mining	BDS-6A	NB-306	mon	125000	80
+	computer networks	BSE-6B	NB-306	mon	142000	80
+	computer networks	BSE-6C	NB-308	mon	082000	80
+	software engineering	BCS-6B	NB-308	mon	095000	80
+	artificial intelligence	BCS-6E	NB-308	mon	112000	80
+	discrete structures	BSE-2A	NB-308	mon	125000	80
+	artificial intelligence	BCS-6N	NB-308	mon	142000	80
+	quantum computing	BCS-8A	NB-309	mon	082000	80
+	software engineering	BCS-6C	NB-309	mon	095000	80
+	software engineering	BCS-6D	NB-309	mon	112000	80
+	software engineering	BCS-6M	NB-309	mon	142000	80
+	design analysis of algo	BSE-6B	NB-311	mon	082000	80
+	parallel distributed comp	BCS-6L	NB-311	mon	095000	80
+	artificial intelligence	BCS-6C	NB-311	mon	112000	80
+	artificial intelligence	BCS-6M	NB-311	mon	125000	80
+	software for mobile devices	BCS-6A	NB-311	mon	142000	80
+	islamic studies ethics holy quran	BCS-2E	CS-1	mon	082000	170
+	expository writing	BCS-2F	CS-1	mon	115000	110
+	multivariate calculus	BCS-2E	CS-1	mon	142000	80
+	software for mobile devices	BSE-8A	CS-2	mon	082000	80
+	object oriented programming	BDS-2B	CS-2	mon	095000	80
+	probability statistics	BCS-4E	CS-2	mon	112000	80
+	multivariate calculus	BDS-2C	CS-2	mon	125000	80
+	object oriented programming	BDS-2C	CS-2	mon	142000	80
+	marketing management	BCS-8A	CS-3	mon	082000	80
+	f of big data analytics	BDS-4A	CS-3	mon	095000	80
+	database systems	BCS-4A	CS-3	mon	112000	80
+	theory of automata	BCS-6A	CS-3	mon	125000	80
+	database systems	BCS-4B	CS-3	mon	142000	80
+	probability statistics	BCS-4J	CS-4	mon	082000	80
+	multivariate calculus	BSE-2A	CS-4	mon	095000	80
+	multivariate calculus	BSE-2B	CS-4	mon	112000	80
+	digital logic design	BCS-2C	CS-4	mon	125000	80
+	digital logic design	BCS-2D	CS-4	mon	142000	80
+	digital logic design	BDS-2B	CS-5	mon	082000	80
+	discrete structures	BSE-2B	CS-5	mon	095000	80
+	digital logic design	BDS-2C	CS-5	mon	112000	80
+	expository writing	BCS-2H	CS-5	mon	125000	110
+	probability statistics	BCS-4D	CS-6	mon	082000	80
+	expository writing	BCS-2D	CS-6	mon	095000	110
+	expository writing	BCS-2E	CS-6	mon	115000	110
+	critical thinking	BCS-4A	CS-6	mon	142000	80
+	f of big data analytics	BDS-4C	CS-7	mon	082000	80
+	artificial intelligence	BCS-6J	CS-7	mon	095000	80
+	digital logic design	BCS-2K	CS-7	mon	112000	80
+	probability statistics	BCS-4G	CS-7	mon	125000	80
+	organization behavior	BCS-4A	CS-7	mon	142000	80
+	operations research	BCS-6B	CS-8	mon	082000	80
+	operating systems	BCS-4J	CS-8	mon	095000	80
+	operating systems	BCS-4K	CS-8	mon	112000	80
+	american history	BCS-8A	CS-8	mon	125000	80
+	international relations	BSE-8A	CS-8	mon	142000	80
+	web engineering	BSE-6A	CS-9	mon	082000	80
+	web engineering	BSE-6B	CS-9	mon	095000	80
+	probability statistics	BCS-4H	CS-9	mon	142000	80
+	design analysis of algo	BCS-4K	CS-10	mon	082000	80
+	operations research	BCS-6A	CS-10	mon	095000	80
+	advanced statistics	BDS-4C	CS-10	mon	112000	80
+	funda of software eng	BDS-4B	CS-10	mon	125000	80
+	funda of software eng	BDS-4A	CS-10	mon	142000	80
+	mass communication	BCS-8A	CS-11	mon	082000	80
+	funda of software eng	BDS-4C	CS-11	mon	095000	80
+	artificial intelligence	BCS-6K	CS-11	mon	112000	80
+	operations research	BCS-6G	CS-11	mon	125000	80
+	operations research	BCS-6H	CS-11	mon	142000	80
+	linear algebra	BSE-4A	CS-12	mon	082000	80
+	linear algebra	BSE-4B	CS-12	mon	112000	80
+	web engineering	BSE-6C	CS-12	mon	125000	80
+	probability statistics	BCS-4K	CS-12	mon	142000	80
+	operations research	BCS-6C	CS-13	mon	082000	80
+	digital logic design	BSE-2A	CS-13	mon	112000	80
+	digital logic design	BSE-2B	CS-13	mon	125000	80
+	probability statistics	BCS-4L	CS-13	mon	142000	80
+	advanced statistics	BDS-4B	CS-14	mon	142000	80
+	expository writing lab	BCS-2A1	English Lab-1	mon	082000	80
+	expository writing lab	BCS-2B1	English Lab-1	mon	095000	80
+	expository writing lab	BCS-2C1	English Lab-1	mon	112000	80
+	expository writing lab	BCS-2D1	English Lab-1	mon	125000	80
+	expository writing lab	BCS-2A2	English Lab-2	mon	082000	80
+	expository writing lab	BCS-2B2	English Lab-2	mon	095000	80
+	expository writing lab	BCS-2C2	English Lab-2	mon	112000	80
+	expository writing lab	BCS-2D2	English Lab-2	mon	125000	80
+	expository writing lab	BCS-2F1	English Lab-3	mon	082000	80
+	expository writing lab	BCS-2G1	English Lab-3	mon	095000	80
+	expository writing lab	BCS-2H1	English Lab-3	mon	112000	80
+	expository writing lab	BCS-2J1	English Lab-3	mon	125000	80
+	expository writing lab	BCS-2F2	English Lab-4	mon	082000	80
+	expository writing lab	BCS-2G2	English Lab-4	mon	095000	80
+	expository writing lab	BCS-2H2	English Lab-4	mon	112000	80
+	expository writing lab	BCS-2J2	English Lab-4	mon	125000	80
+	computer networks lab	BSE-6A1,BSE-6A2	Lab-1	mon	112000	170
+	artificial intelligence lab	BCS-6K1,BCS-6K2	Lab-1	mon	142000	170
+	database systems lab	BSE-4C1, BSE-4C2	Lab-2	mon	142000	170
+	web engineering lab	BSE-6A1,BSE-6A2	Lab-3	mon	142000	170
+	object oriented programming lab	BDS-2B1,BDS-2B2	Lab-4	mon	112000	170
+	artificial intelligence lab	BDS-6C1,BDS-6C2	Lab-5	mon	112000	170
+	artificial intelligence lab	BDS-6B1,BDS-6B2	Lab-6	mon	112000	170
+	object oriented programming lab	BCS-2G1,BCS-2G2	Lab-16	mon	112000	170
+	digital logic design lab	BDS-2C1	Physics Lab	mon	082000	170
+	digital logic design lab	BDS-2A1	Physics Lab	mon	112000	170
+	digital logic design lab	BCS-2J1	Physics Lab	mon	142000	170
+	digital logic design lab	BDS-2C2	Micro Lab	mon	082000	170
+	digital logic design lab	BDS-2A2	Micro Lab	mon	112000	170
+	digital logic design lab	BCS-2J2	Micro Lab	mon	142000	170
+	multivariate calculus	BCS-2C	Seminar Hall	tue	082000	80
+	multivariate calculus	BCS-2D	Seminar Hall	tue	095000	80
+	multivariate calculus	BCS-2B	Seminar Hall	tue	112000	80
+	multivariate calculus	BCS-2A	Seminar Hall	tue	142000	80
+	quantum computing	BCS-6A	NB-201	tue	082000	80
+	design analysis of algo	BCS-4B	NB-201	tue	095000	80
+	design analysis of algo	BCS-4A	NB-201	tue	112000	80
+	compiler construction	BCS-6A	NB-201	tue	125000	80
+	object oriented programming	BSE-2B	NB-201	tue	142000	80
+	discrete structures	BCS-4A	NB-201	tue	155000	80
+	human resource management	MSP-4A	NB-201	tue	172000	170
+	machine learning for data sci	MDS-2B	NB-202	tue	082000	80
+	applied artificial intelligence	BSE-6A	NB-202	tue	095000	80
+	data mining	BDS-6C	NB-202	tue	125000	80
+	natural laguage processing	BDS-6A	NB-202	tue	142000	80
+	machine learning for data sci	MDS-2A	NB-203	tue	082000	80
+	software testing	BCS-6A	NB-203	tue	095000	80
+	object oriented programming	BCS-2E	NB-203	tue	112000	80
+	object oriented programming	BCS-2D	NB-203	tue	125000	80
+	object oriented programming	BCS-2F	NB-204	tue	082000	80
+	object oriented programming	BCS-2H	NB-204	tue	095000	80
+	object oriented programming	BCS-2G	NB-204	tue	112000	80
+	object oriented programming	BCS-2J	NB-204	tue	125000	80
+	cyber security	BCS-8A	NB-204	tue	142000	80
+	artificial intelligence	BDS-6B	NB-205	tue	082000	80
+	database systems	BCS-4E	NB-205	tue	095000	80
+	object oriented programming	BSE-2A	NB-205	tue	112000	80
+	advanced programming	BCS-8A	NB-205	tue	125000	80
+	parallel distributed comp	BCS-6K	NB-205	tue	142000	80
+	mining of massive datasets	BCS-8A	NB-206	tue	082000	80
+	data structures	BDS-4A	NB-206	tue	095000	80
+	advanced statistics	BDS-4A	NB-206	tue	112000	80
+	computer networks	BSE-6A	NB-206	tue	125000	80
+	computer networks	BCS-6A	NB-206	tue	142000	80
+	natural laguage processing	BDS-8B	NB-207	tue	095000	80
+	web programming	BCS-6B	NB-207	tue	125000	80
+	data science	BSE-8A	NB-207	tue	142000	80
+	f of big data analytics	BDS-4B	NB-208	tue	082000	80
+	adv database concepts	BSE-6A	NB-208	tue	095000	80
+	software engineering	BCS-6J	NB-208	tue	112000	80
+	data science	BCS-8A	NB-208	tue	125000	80
+	advanced programming	BCS-6A	NB-208	tue	142000	80
+	database systems	BCS-4K	NB-209	tue	095000	80
+	software engineering	BCS-6H	NB-209	tue	112000	80
+	adv database concepts	BSE-8A	NB-209	tue	125000	80
+	information retrieval	BDS-6A	NB-209	tue	142000	80
+	parallel distributed comp	BCS-6A	NB-210	tue	082000	80
+	software engineering	BCS-6G	NB-210	tue	095000	80
+	compiler construction	BCS-8A	NB-210	tue	112000	80
+	fund of computer vision	BDS-8B	NB-210	tue	125000	80
+	design analysis of algo	BSE-6A	NB-210	tue	142000	80
+	parallel distributed comp	BCS-6F	NB-301	tue	082000	80
+	data mining	BDS-6B	NB-301	tue	095000	80
+	parallel distributed comp	BCS-6G	NB-301	tue	112000	80
+	artificial intelligence	BCS-6H	NB-301	tue	125000	80
+	design analysis of algo	BCS-6B	NB-301	tue	142000	80
+	design analysis of algo	BCS-6A	NB-301	tue	155000	80
+	design analysis of algo	BCS-4J	NB-302	tue	082000	80
+	intro to software eng	BSE-2A	NB-302	tue	095000	80
+	intro to software eng	BSE-2B	NB-302	tue	112000	80
+	parallel distributed comp	BDS-6A	NB-302	tue	125000	80
+	chinese language	BCS-4A	NB-302	tue	142000	80
+	computer networks	BCS-6B	NB-303	tue	082000	80
+	artificial intelligence	BDS-6C	NB-303	tue	095000	80
+	blockchain crypto	BCS-8B	NB-303	tue	112000	80
+	professional practices in it	BCS-8A	NB-303	tue	125000	80
+	ideology and const of pak seerat	BCS-2J	NB-304	tue	082000	170
+	operating systems	BCS-4C	NB-304	tue	112000	80
+	operating systems	BCS-4E	NB-304	tue	125000	80
+	intro to coud computing	BCS-8A	NB-305	tue	082000	80
+	blockchain crypto	BCS-8A	NB-305	tue	095000	80
+	operating systems	BCS-4F	NB-305	tue	112000	80
+	operating systems	BCS-4G	NB-305	tue	125000	80
+	operating systems	BCS-4H	NB-305	tue	142000	80
+	database systems	BSE-4A	NB-306	tue	082000	80
+	deep learning	MDS-2A	NB-306	tue	095000	80
+	database systems	BSE-4B	NB-306	tue	112000	80
+	fund of computer vision	BDS-8A	NB-306	tue	125000	80
+	software engineering	BCS-6L	NB-308	tue	095000	80
+	parallel distributed comp	BCS-6B	NB-308	tue	112000	80
+	internet of things	MCS-2A	NB-309	tue	095000	170
+	funda of software eng	BDS-4D	NB-311	tue	082000	80
+	software re engineering	BSE-8A	NB-311	tue	095000	80
+	software re engineering	BSE-8B	NB-311	tue	112000	80
+	ideology and const of pak seerat	BCS-2G	CS-1	tue	082000	170
+	operations research	BCS-6L	CS-1	tue	112000	80
+	com org assembly lang	BDS-4A	CS-1	tue	125000	80
+	multivariate calculus	BCS-2G	CS-1	tue	142000	80
+	marketing management	BCS-4A	CS-2	tue	082000	80
+	multivariate calculus	BDS-2A	CS-2	tue	095000	80
+	multivariate calculus	BDS-2B	CS-2	tue	112000	80
+	calculus and ana geometry	BDS-2A	CS-2	tue	125000	80
+	digital logic design	BDS-2A	CS-2	tue	142000	80
+	data structures	BCS-4B	CS-3	tue	082000	80
+	theory of automata	BCS-6B	CS-3	tue	095000	80
+	adv database concepts	BCS-8A	CS-3	tue	112000	80
+	adv database concepts	BCS-6A	CS-3	tue	142000	80
+	digital logic design	BCS-2E	CS-4	tue	082000	80
+	digital logic design	BCS-2F	CS-4	tue	095000	80
+	environmental studies	BDS-4A	CS-4	tue	112000	80
+	digital logic design	BCS-2G	CS-4	tue	125000	80
+	entrepreneurship	BDS-4A	CS-4	tue	142000	80
+	modern politics govt	BDS-8A	CS-5	tue	082000	80
+	modern politics govt	BCS-8A	CS-5	tue	095000	80
+	theory of automata	BCS-6C	CS-5	tue	112000	80
+	principles of leadership	BCS-4A	CS-5	tue	125000	80
+	brand management	BCS-4A	CS-5	tue	142000	80
+	digital logic design	BCS-2H	CS-6	tue	082000	80
+	web programming	BDS-8A	CS-6	tue	112000	80
+	ideology and const of pak seerat	BCS-2K	CS-6	tue	125000	170
+	expository writing	BDS-2C	CS-7	tue	115000	110
+	international relations	BSE-4A	CS-7	tue	142000	80
+	operations research	BCS-6D	CS-8	tue	082000	80
+	com org assembly lang	BCS-4C	CS-8	tue	095000	80
+	international business	BDS-6A	CS-8	tue	112000	80
+	operations research	BCS-6J	CS-8	tue	125000	80
+	operations research	BCS-6K	CS-8	tue	142000	80
+	mass communication	BCS-4A	CS-9	tue	082000	80
+	probability statistics	BCS-4A	CS-9	tue	095000	80
+	expository writing	BCS-2A	CS-9	tue	115000	110
+	marketing management	BSE-4A	CS-9	tue	142000	80
+	probability statistics	BCS-4B	CS-10	tue	082000	80
+	probability statistics	BCS-4C	CS-10	tue	095000	80
+	operating systems	BCS-6A	CS-10	tue	112000	80
+	accounting and finance	BDS-4A	CS-10	tue	125000	80
+	psychology	BCS-4A	CS-10	tue	142000	80
+	operations research	BCS-6M	CS-11	tue	082000	80
+	design analysis of algo	BCS-4F	CS-11	tue	095000	80
+	design analysis of algo	BCS-4E	CS-11	tue	112000	80
+	linear algebra	BSE-4C	CS-11	tue	125000	80
+	marketing management	BDS-6A	CS-11	tue	142000	80
+	business process eng	BSE-4C	CS-12	tue	082000	80
+	business process eng	BSE-4D	CS-12	tue	095000	80
+	digital logic design	BCS-2J	CS-12	tue	112000	80
+	parallel distributed comp	BCS-6M	CS-12	tue	125000	80
+	brand management	BCS-8A	CS-12	tue	142000	80
+	foreign policy of pakistan	BCS-4A	CS-13	tue	082000	80
+	artificial intelligence	BCS-6D	CS-13	tue	095000	80
+	formal methods	BSE-6A	CS-13	tue	112000	80
+	formal methods	BSE-6B	CS-13	tue	125000	80
+	operations research	BCS-6E	CS-14	tue	082000	80
+	operations research	BCS-6F	CS-14	tue	095000	80
+	numerical computing	BCS-6A	CS-14	tue	125000	80
+	expository writing lab	BDS-2A1	English Lab-1	tue	082000	80
+	expository writing lab	BDS-2B1	English Lab-1	tue	095000	80
+	expository writing lab	BCS-2K1	English Lab-1	tue	112000	80
+	expository writing lab	BDS-2A2	English Lab-2	tue	082000	80
+	expository writing lab	BDS-2B2	English Lab-2	tue	095000	80
+	expository writing lab	BCS-2K2	English Lab-2	tue	112000	80
+	expository writing lab	BDS-2C1	English Lab-3	tue	082000	80
+	expository writing lab	BCS-2E1	English Lab-3	tue	095000	80
+	expository writing lab	BDS-2C2	English Lab-4	tue	082000	80
+	expository writing lab	BCS-2E2	English Lab-4	tue	095000	80
+	object oriented programming lab	BCS-2A1,BCS-2A2	Lab-4	tue	082000	170
+	artificial intelligence lab	BCS-6L1,BCS-6L2	Lab-4	tue	112000	170
+	artificial intelligence lab	BCS-6H1,BCS-6H2	Lab-4	tue	142000	170
+	artificial intelligence lab	BDS-6A1,BDS-6A2	Lab-5	tue	082000	170
+	computer networks lab	BSE-6C1,BSE-6C2	Lab-5	tue	112000	170
+	artificial intelligence lab	BCS-6J1,BCS-6J2	Lab-5	tue	142000	170
+	object oriented programming lab	BSE-2B1,BSE-2B2	Lab-6	tue	082000	170
+	computer networks lab	BSE-6B1,BSE-6B2	Lab-7	tue	142000	170
+	object oriented programming lab	BCS-2B1,BCS-2B2	Lab-13	tue	082000	170
+	database systems lab	BSE-4B1, BSE-4B2	Lab-13	tue	142000	170
+	operating systems lab	BCS-4D1, BCS-4D2	Lab-15	tue	142000	170
+	digital logic design lab	BCS-2K1	Physics Lab	tue	082000	170
+	digital logic design lab	BCS-2F1	Physics Lab	tue	112000	170
+	digital logic design lab	BCS-2C1	Physics Lab	tue	142000	170
+	digital logic design lab	BCS-2K2	Micro Lab	tue	082000	170
+	digital logic design lab	BCS-2F2	Micro Lab	tue	112000	170
+	digital logic design lab	BCS-2C2	Micro Lab	tue	142000	170
+	multivariate calculus	BCS-2H	Seminar Hall	wed	082000	80
+	multivariate calculus	BCS-2J	Seminar Hall	wed	095000	80
+	sociology	BDS-6A	Seminar Hall	wed	112000	80
+	multivariate calculus	BCS-2K	Seminar Hall	wed	125000	80
+	multivariate calculus	BCS-2F	Seminar Hall	wed	142000	80
+	database systems	BCS-4F	NB-201	wed	082000	80
+	advanced analysis of algorithms	MCS-2A	NB-201	wed	095000	170
+	parallel distributed comp	BCS-6J	NB-201	wed	125000	80
+	artificial intelligence	BCS-6F	NB-201	wed	142000	80
+	programming fundamentals	BCS-2A	NB-201	wed	155000	80
+	soft process managment metrics	MSP-2A	NB-201	wed	172000	170
+	digital image processing	BCS-6A	NB-202	wed	082000	80
+	object oriented programming	BCS-2K	NB-202	wed	095000	80
+	object oriented programming	BCS-2A	NB-202	wed	112000	80
+	software engineering	BCS-6E	NB-202	wed	142000	80
+	programming fundamentals	BDS-2A	NB-202	wed	155000	80
+	digital logic design	BCS-2B	NB-203	wed	082000	80
+	digital logic design	BCS-2A	NB-203	wed	095000	80
+	digital image processing	BCS-6B	NB-203	wed	112000	80
+	object oriented programming	BCS-2B	NB-203	wed	125000	80
+	applied programming	MCS-2A	NB-203	wed	142000	80
+	differential equations	BCS-4A	NB-203	wed	155000	80
+	software engineering	BCS-6A	NB-204	wed	082000	80
+	database systems	BCS-4C	NB-204	wed	095000	80
+	database systems	BCS-4D	NB-204	wed	112000	80
+	business process eng	BSE-4A	NB-204	wed	125000	80
+	business process eng	BSE-4B	NB-204	wed	142000	80
+	soft design architecture	BSE-4B	NB-205	wed	082000	80
+	soft design architecture	BSE-4A	NB-205	wed	095000	80
+	intro to internet of things	BSE-8A	NB-205	wed	112000	80
+	com org assembly lang	BCS-4B	NB-205	wed	125000	80
+	com org assembly lang	BCS-4A	NB-205	wed	142000	80
+	parallel distributed comp	BCS-6D	NB-206	wed	082000	80
+	parallel distributed comp	BCS-6E	NB-206	wed	095000	80
+	blockchain crypto	BCS-6A	NB-206	wed	112000	80
+	data structures	BCS-4A	NB-206	wed	125000	80
+	artificial intelligence	BDS-6D	NB-206	wed	142000	80
+	operating systems	BCS-4A	NB-207	wed	082000	80
+	natural laguage processing	BDS-8A	NB-207	wed	095000	80
+	operating systems	BCS-4B	NB-207	wed	112000	80
+	compiler construction	BCS-6B	NB-207	wed	125000	80
+	software design and analysis	BCS-6A	NB-207	wed	142000	80
+	software engineering	BCS-6K	NB-208	wed	082000	80
+	database systems	BCS-4G	NB-208	wed	095000	80
+	design analysis of algo	BCS-4G	NB-208	wed	112000	80
+	design analysis of algo	BCS-4H	NB-208	wed	125000	80
+	object oriented programming	BDS-2A	NB-208	wed	142000	80
+	artificial intelligence	BDS-6A	NB-209	wed	082000	80
+	software testing	BCS-8A	NB-209	wed	095000	80
+	database systems	BCS-4J	NB-209	wed	112000	80
+	enviromental data science	BCS-8A	NB-209	wed	125000	80
+	artificial intelligence	BCS-6L	NB-209	wed	142000	80
+	database systems	BDS-4A	NB-210	wed	082000	80
+	software engineering	BCS-6F	NB-210	wed	095000	80
+	database systems	BDS-4B	NB-210	wed	112000	80
+	database systems	BDS-4C	NB-210	wed	125000	80
+	design analysis of algo	BCS-4C	NB-210	wed	142000	80
+	parallel distributed comp	BCS-6H	NB-301	wed	082000	80
+	design analysis of algo	BCS-4D	NB-301	wed	095000	80
+	operating systems	BDS-6A	NB-301	wed	112000	80
+	probability statistics	BCS-4F	NB-301	wed	125000	80
+	entrepreneurship	BCS-8A	NB-301	wed	142000	80
+	parallel distributed comp	BDS-6B	NB-302	wed	082000	80
+	cyber security	BCS-6A	NB-302	wed	095000	80
+	web programming	BCS-8A	NB-302	wed	112000	80
+	parallel distributed comp	BCS-6C	NB-302	wed	125000	80
+	environmental studies	BSE-8A	NB-302	wed	142000	80
+	parallel distributed comp	BDS-6C	NB-303	wed	082000	80
+	information retrieval	BCS-8B	NB-303	wed	095000	80
+	soft design architecture	BSE-4C	NB-303	wed	112000	80
+	soft design architecture	BSE-4D	NB-303	wed	125000	80
+	natural laguage processing	BDS-6B	NB-303	wed	142000	80
+	information retrieval	BCS-8A	NB-304	wed	082000	80
+	intro to internet of things	BCS-8A	NB-304	wed	095000	80
+	artificial intelligence	BCS-6G	NB-304	wed	112000	80
+	operating systems	BCS-4D	NB-304	wed	125000	80
+	object oriented programming	BCS-2C	NB-304	wed	142000	80
+	web programming	BDS-8B	NB-305	wed	082000	80
+	database systems	BCS-6A	NB-305	wed	095000	80
+	artificial intelligence	BCS-6A	NB-305	wed	112000	80
+	artificial intelligence	BCS-6B	NB-305	wed	125000	80
+	modern politics govt	BCS-4A	NB-305	wed	142000	80
+	database systems	BSE-4C	NB-306	wed	082000	80
+	web programming	BCS-6A	NB-306	wed	095000	80
+	design analysis of algo	BSE-6C	NB-306	wed	112000	80
+	data mining	BDS-6A	NB-306	wed	125000	80
+	computer networks	BSE-6B	NB-306	wed	142000	80
+	computer networks	BSE-6C	NB-308	wed	082000	80
+	software engineering	BCS-6B	NB-308	wed	095000	80
+	artificial intelligence	BCS-6E	NB-308	wed	112000	80
+	discrete structures	BSE-2A	NB-308	wed	125000	80
+	artificial intelligence	BCS-6N	NB-308	wed	142000	80
+	quantum computing	BCS-8A	NB-309	wed	082000	80
+	software engineering	BCS-6C	NB-309	wed	095000	80
+	software engineering	BCS-6D	NB-309	wed	112000	80
+	software engineering	BCS-6M	NB-309	wed	142000	80
+	design analysis of algo	BSE-6B	NB-311	wed	082000	80
+	parallel distributed comp	BCS-6L	NB-311	wed	095000	80
+	artificial intelligence	BCS-6C	NB-311	wed	112000	80
+	artificial intelligence	BCS-6M	NB-311	wed	125000	80
+	software for mobile devices	BCS-6A	NB-311	wed	142000	80
+	islamic studies ethics holy quran	BCS-2C	CS-1	wed	082000	170
+	islamic studies ethics holy quran	BCS-2D	CS-1	wed	112000	170
+	multivariate calculus	BCS-2E	CS-1	wed	142000	80
+	software for mobile devices	BSE-8A	CS-2	wed	082000	80
+	object oriented programming	BDS-2B	CS-2	wed	095000	80
+	probability statistics	BCS-4E	CS-2	wed	112000	80
+	multivariate calculus	BDS-2C	CS-2	wed	125000	80
+	object oriented programming	BDS-2C	CS-2	wed	142000	80
+	marketing management	BCS-8A	CS-3	wed	082000	80
+	f of big data analytics	BDS-4A	CS-3	wed	095000	80
+	database systems	BCS-4A	CS-3	wed	112000	80
+	theory of automata	BCS-6A	CS-3	wed	125000	80
+	database systems	BCS-4B	CS-3	wed	142000	80
+	probability statistics	BCS-4J	CS-4	wed	082000	80
+	multivariate calculus	BSE-2A	CS-4	wed	095000	80
+	multivariate calculus	BSE-2B	CS-4	wed	112000	80
+	digital logic design	BCS-2C	CS-4	wed	125000	80
+	digital logic design	BCS-2D	CS-4	wed	142000	80
+	digital logic design	BDS-2B	CS-5	wed	082000	80
+	discrete structures	BSE-2B	CS-5	wed	095000	80
+	digital logic design	BDS-2C	CS-5	wed	112000	80
+	ideology and const of pak seerat	BCS-2H	CS-5	wed	125000	170
+	probability statistics	BCS-4D	CS-6	wed	082000	80
+	expository writing	BCS-2G	CS-6	wed	115000	110
+	expository writing	BCS-2J	CS-6	wed	142000	110
+	f of big data analytics	BDS-4C	CS-7	wed	082000	80
+	artificial intelligence	BCS-6J	CS-7	wed	095000	80
+	digital logic design	BCS-2K	CS-7	wed	112000	80
+	probability statistics	BCS-4G	CS-7	wed	125000	80
+	organization behavior	BCS-4A	CS-7	wed	142000	80
+	operations research	BCS-6B	CS-8	wed	082000	80
+	operating systems	BCS-4J	CS-8	wed	095000	80
+	operating systems	BCS-4K	CS-8	wed	112000	80
+	american history	BCS-8A	CS-8	wed	125000	80
+	international relations	BSE-8A	CS-8	wed	142000	80
+	web engineering	BSE-6A	CS-9	wed	082000	80
+	web engineering	BSE-6B	CS-9	wed	095000	80
+	probability statistics	BCS-4H	CS-9	wed	142000	80
+	design analysis of algo	BCS-4K	CS-10	wed	082000	80
+	operations research	BCS-6A	CS-10	wed	095000	80
+	advanced statistics	BDS-4C	CS-10	wed	112000	80
+	funda of software eng	BDS-4B	CS-10	wed	125000	80
+	funda of software eng	BDS-4A	CS-10	wed	142000	80
+	mass communication	BCS-8A	CS-11	wed	082000	80
+	funda of software eng	BDS-4C	CS-11	wed	095000	80
+	artificial intelligence	BCS-6K	CS-11	wed	112000	80
+	operations research	BCS-6G	CS-11	wed	125000	80
+	operations research	BCS-6H	CS-11	wed	142000	80
+	linear algebra	BSE-4A	CS-12	wed	082000	80
+	linear algebra	BSE-4B	CS-12	wed	112000	80
+	web engineering	BSE-6C	CS-12	wed	125000	80
+	probability statistics	BCS-4K	CS-12	wed	142000	80
+	operations research	BCS-6C	CS-13	wed	082000	80
+	digital logic design	BSE-2A	CS-13	wed	112000	80
+	digital logic design	BSE-2B	CS-13	wed	125000	80
+	probability statistics	BCS-4L	CS-13	wed	142000	80
+	advanced statistics	BDS-4B	CS-14	wed	142000	80
+	expository writing lab	BCS-2A1	English Lab-1	wed	082000	80
+	expository writing lab	BCS-2B1	English Lab-1	wed	095000	80
+	expository writing lab	BCS-2C1	English Lab-1	wed	112000	80
+	expository writing lab	BCS-2D1	English Lab-1	wed	125000	80
+	expository writing lab	BCS-2A2	English Lab-2	wed	082000	80
+	expository writing lab	BCS-2B2	English Lab-2	wed	095000	80
+	expository writing lab	BCS-2C2	English Lab-2	wed	112000	80
+	expository writing lab	BCS-2D2	English Lab-2	wed	125000	80
+	expository writing lab	BCS-2F1	English Lab-3	wed	082000	80
+	expository writing lab	BCS-2G1	English Lab-3	wed	095000	80
+	expository writing lab	BCS-2H1	English Lab-3	wed	112000	80
+	expository writing lab	BCS-2J1	English Lab-3	wed	125000	80
+	expository writing lab	BCS-2F2	English Lab-4	wed	082000	80
+	expository writing lab	BCS-2G2	English Lab-4	wed	095000	80
+	expository writing lab	BCS-2H2	English Lab-4	wed	112000	80
+	expository writing lab	BCS-2J2	English Lab-4	wed	125000	80
+	web engineering lab	BSE-6B1,BSE-6B2	Lab-1	wed	112000	170
+	soft design architecture lab	BSE-4C1, BSE-4C2	Lab-1	wed	142000	170
+	database systems lab	BCS-4E1, BCS-4E2	Lab-2	wed	082000	170
+	programming fundamentals	BDS-2A1,BDS-2A2	Lab-4	wed	142000	170
+	object oriented programming lab	BDS-2A1,BDS-2A2	Lab-5	wed	112000	170
+	object oriented programming lab	BCS-2F1,BCS-2F2	Lab-6	wed	112000	170
+	artificial intelligence lab	BCS-6C1,BCS-6C2	Lab-6	wed	142000	170
+	artificial intelligence lab	BCS-6M1,BCS-6M2	Lab-7	wed	112000	170
+	soft design architecture lab	BSE-4D1, BSE-4D2	Lab-7	wed	142000	170
+	object oriented programming lab	BCS-2E1,BCS-2E2	Lab-13	wed	082000	170
+	artificial intelligence lab	BCS-6G1,BCS-6G2	Lab-13	wed	112000	170
+	data mining lab	BDS-6B1,BDS-6B2	Lab-15	wed	112000	170
+	operating systems lab	BCS-4C1, BCS-4C2	Lab-16	wed	112000	170
+	digital logic design lab	BCS-2E1	Physics Lab	wed	112000	170
+	digital logic design lab	BCS-2G1	Physics Lab	wed	142000	170
+	digital logic design lab	BCS-2E2	Micro Lab	wed	112000	170
+	digital logic design lab	BCS-2G2	Micro Lab	wed	142000	170
+	multivariate calculus	BCS-2C	Seminar Hall	thu	082000	80
+	multivariate calculus	BCS-2D	Seminar Hall	thu	095000	80
+	multivariate calculus	BCS-2B	Seminar Hall	thu	112000	80
+	multivariate calculus	BCS-2A	Seminar Hall	thu	142000	80
+	quantum computing	BCS-6A	NB-201	thu	082000	80
+	design analysis of algo	BCS-4B	NB-201	thu	095000	80
+	design analysis of algo	BCS-4A	NB-201	thu	112000	80
+	compiler construction	BCS-6A	NB-201	thu	125000	80
+	object oriented programming	BSE-2B	NB-201	thu	142000	80
+	discrete structures	BCS-4A	NB-201	thu	155000	80
+	practicum i ii	MSP-4A	NB-201	thu	172000	170
+	machine learning for data sci	MDS-2B	NB-202	thu	082000	80
+	applied artificial intelligence	BSE-6A	NB-202	thu	095000	80
+	database systems	BCS-4H	NB-202	thu	112000	80
+	data mining	BDS-6C	NB-202	thu	125000	80
+	natural laguage processing	BDS-6A	NB-202	thu	142000	80
+	machine learning for data sci	MDS-2A	NB-203	thu	082000	80
+	software testing	BCS-6A	NB-203	thu	095000	80
+	object oriented programming	BCS-2E	NB-203	thu	112000	80
+	object oriented programming	BCS-2D	NB-203	thu	125000	80
+	object oriented programming	BCS-2F	NB-204	thu	082000	80
+	object oriented programming	BCS-2H	NB-204	thu	095000	80
+	object oriented programming	BCS-2G	NB-204	thu	112000	80
+	object oriented programming	BCS-2J	NB-204	thu	125000	80
+	cyber security	BCS-8A	NB-204	thu	142000	80
+	artificial intelligence	BDS-6B	NB-205	thu	082000	80
+	database systems	BCS-4E	NB-205	thu	095000	80
+	object oriented programming	BSE-2A	NB-205	thu	112000	80
+	advanced programming	BCS-8A	NB-205	thu	125000	80
+	parallel distributed comp	BCS-6K	NB-205	thu	142000	80
+	mining of massive datasets	BCS-8A	NB-206	thu	082000	80
+	data structures	BDS-4A	NB-206	thu	095000	80
+	advanced statistics	BDS-4A	NB-206	thu	112000	80
+	computer networks	BSE-6A	NB-206	thu	125000	80
+	computer networks	BCS-6A	NB-206	thu	142000	80
+	natural laguage processing	BDS-8B	NB-207	thu	095000	80
+	web programming	BCS-6B	NB-207	thu	125000	80
+	data science	BSE-8A	NB-207	thu	142000	80
+	f of big data analytics	BDS-4B	NB-208	thu	082000	80
+	adv database concepts	BSE-6A	NB-208	thu	095000	80
+	software engineering	BCS-6J	NB-208	thu	112000	80
+	data science	BCS-8A	NB-208	thu	125000	80
+	advanced programming	BCS-6A	NB-208	thu	142000	80
+	database systems	BCS-4K	NB-209	thu	095000	80
+	software engineering	BCS-6H	NB-209	thu	112000	80
+	adv database concepts	BSE-8A	NB-209	thu	125000	80
+	information retrieval	BDS-6A	NB-209	thu	142000	80
+	parallel distributed comp	BCS-6A	NB-210	thu	082000	80
+	software engineering	BCS-6G	NB-210	thu	095000	80
+	compiler construction	BCS-8A	NB-210	thu	112000	80
+	fund of computer vision	BDS-8B	NB-210	thu	125000	80
+	design analysis of algo	BSE-6A	NB-210	thu	142000	80
+	parallel distributed comp	BCS-6F	NB-301	thu	082000	80
+	data mining	BDS-6B	NB-301	thu	095000	80
+	parallel distributed comp	BCS-6G	NB-301	thu	112000	80
+	artificial intelligence	BCS-6H	NB-301	thu	125000	80
+	design analysis of algo	BCS-4J	NB-302	thu	082000	80
+	intro to software eng	BSE-2A	NB-302	thu	095000	80
+	intro to software eng	BSE-2B	NB-302	thu	112000	80
+	parallel distributed comp	BDS-6A	NB-302	thu	125000	80
+	chinese language	BCS-4A	NB-302	thu	142000	80
+	computer networks	BCS-6B	NB-303	thu	082000	80
+	artificial intelligence	BDS-6C	NB-303	thu	095000	80
+	blockchain crypto	BCS-8B	NB-303	thu	112000	80
+	professional practices in it	BCS-8A	NB-303	thu	125000	80
+	advanced operating systems	MCS-2A	NB-304	thu	082000	170
+	operating systems	BCS-4C	NB-304	thu	112000	80
+	operating systems	BCS-4E	NB-304	thu	125000	80
+	intro to coud computing	BCS-8A	NB-305	thu	082000	80
+	blockchain crypto	BCS-8A	NB-305	thu	095000	80
+	operating systems	BCS-4F	NB-305	thu	112000	80
+	operating systems	BCS-4G	NB-305	thu	125000	80
+	operating systems	BCS-4H	NB-305	thu	142000	80
+	database systems	BSE-4A	NB-306	thu	082000	80
+	deep learning	MDS-2A	NB-306	thu	095000	80
+	database systems	BSE-4B	NB-306	thu	112000	80
+	fund of computer vision	BDS-8A	NB-306	thu	125000	80
+	software engineering	BCS-6L	NB-308	thu	095000	80
+	parallel distributed comp	BCS-6B	NB-308	thu	112000	80
+	advanced computer networks	MCS-2A	NB-309	thu	095000	170
+	funda of software eng	BDS-4D	NB-311	thu	082000	80
+	software re engineering	BSE-8A	NB-311	thu	095000	80
+	software re engineering	BSE-8B	NB-311	thu	112000	80
+	operations research	BCS-6L	CS-1	thu	112000	80
+	com org assembly lang	BDS-4A	CS-1	thu	125000	80
+	multivariate calculus	BCS-2G	CS-1	thu	142000	80
+	marketing management	BCS-4A	CS-2	thu	082000	80
+	multivariate calculus	BDS-2A	CS-2	thu	095000	80
+	multivariate calculus	BDS-2B	CS-2	thu	112000	80
+	calculus and ana geometry	BDS-2A	CS-2	thu	125000	80
+	digital logic design	BDS-2A	CS-2	thu	142000	80
+	data structures	BCS-4B	CS-3	thu	082000	80
+	theory of automata	BCS-6B	CS-3	thu	095000	80
+	adv database concepts	BCS-8A	CS-3	thu	112000	80
+	adv database concepts	BCS-6A	CS-3	thu	142000	80
+	digital logic design	BCS-2E	CS-4	thu	082000	80
+	digital logic design	BCS-2F	CS-4	thu	095000	80
+	environmental studies	BDS-4A	CS-4	thu	112000	80
+	digital logic design	BCS-2G	CS-4	thu	125000	80
+	entrepreneurship	BDS-4A	CS-4	thu	142000	80
+	modern politics govt	BDS-8A	CS-5	thu	082000	80
+	modern politics govt	BCS-8A	CS-5	thu	095000	80
+	theory of automata	BCS-6C	CS-5	thu	112000	80
+	principles of leadership	BCS-4A	CS-5	thu	125000	80
+	brand management	BCS-4A	CS-5	thu	142000	80
+	digital logic design	BCS-2H	CS-6	thu	082000	80
+	web programming	BDS-8A	CS-6	thu	112000	80
+	islamic studies ethics	BDS-2C	CS-6	thu	125000	110
+	islamic studies ethics holy quran	BCS-2A	CS-7	thu	082000	170
+	international relations	BSE-4A	CS-7	thu	142000	80
+	operations research	BCS-6D	CS-8	thu	082000	80
+	com org assembly lang	BCS-4C	CS-8	thu	095000	80
+	international business	BDS-6A	CS-8	thu	112000	80
+	operations research	BCS-6J	CS-8	thu	125000	80
+	operations research	BCS-6K	CS-8	thu	142000	80
+	mass communication	BCS-4A	CS-9	thu	082000	80
+	probability statistics	BCS-4A	CS-9	thu	095000	80
+	marketing management	BSE-4A	CS-9	thu	142000	80
+	probability statistics	BCS-4B	CS-10	thu	082000	80
+	probability statistics	BCS-4C	CS-10	thu	095000	80
+	operating systems	BCS-6A	CS-10	thu	112000	80
+	accounting and finance	BDS-4A	CS-10	thu	125000	80
+	psychology	BCS-4A	CS-10	thu	142000	80
+	operations research	BCS-6M	CS-11	thu	082000	80
+	design analysis of algo	BCS-4F	CS-11	thu	095000	80
+	design analysis of algo	BCS-4E	CS-11	thu	112000	80
+	linear algebra	BSE-4C	CS-11	thu	125000	80
+	marketing management	BDS-6A	CS-11	thu	142000	80
+	business process eng	BSE-4C	CS-12	thu	082000	80
+	business process eng	BSE-4D	CS-12	thu	095000	80
+	digital logic design	BCS-2J	CS-12	thu	112000	80
+	parallel distributed comp	BCS-6M	CS-12	thu	125000	80
+	brand management	BCS-8A	CS-12	thu	142000	80
+	foreign policy of pakistan	BCS-4A	CS-13	thu	082000	80
+	artificial intelligence	BCS-6D	CS-13	thu	095000	80
+	formal methods	BSE-6A	CS-13	thu	112000	80
+	formal methods	BSE-6B	CS-13	thu	125000	80
+	operations research	BCS-6E	CS-14	thu	082000	80
+	operations research	BCS-6F	CS-14	thu	095000	80
+	numerical computing	BCS-6A	CS-14	thu	125000	80
+	expository writing lab	BDS-2A1	English Lab-1	thu	082000	80
+	expository writing lab	BDS-2B1	English Lab-1	thu	095000	80
+	expository writing lab	BCS-2K1	English Lab-1	thu	112000	80
+	expository writing lab	BDS-2A2	English Lab-2	thu	082000	80
+	expository writing lab	BDS-2B2	English Lab-2	thu	095000	80
+	expository writing lab	BCS-2K2	English Lab-2	thu	112000	80
+	expository writing lab	BDS-2C1	English Lab-3	thu	082000	80
+	expository writing lab	BCS-2E1	English Lab-3	thu	095000	80
+	expository writing lab	BDS-2C2	English Lab-4	thu	082000	80
+	expository writing lab	BCS-2E2	English Lab-4	thu	095000	80
+	database systems lab	BCS-4H1, BCS-4H2	Lab-2	thu	082000	170
+	database systems lab	BCS-4G1, BCS-4G2	Lab-3	thu	082000	170
+	database systems lab	BCS-4F1, BCS-4F2	Lab-3	thu	142000	170
+	data mining lab	BDS-6A1,BDS-6A2	Lab-4	thu	082000	170
+	database systems lab	BSE-4A1, BSE-4A2	Lab-4	thu	112000	170
+	artificial intelligence lab	BCS-6F1,BCS-6F2	Lab-4	thu	142000	170
+	web engineering lab	BSE-6C1,BSE-6C2	Lab-5	thu	112000	170
+	artificial intelligence lab	BCS-6N1,BCS-6N2	Lab-5	thu	142000	170
+	artificial intelligence lab	BCS-6A1,BCS-6A2	Lab-6	thu	112000	170
+	artificial intelligence lab	BCS-6E1,BCS-6E2	Lab-6	thu	142000	170
+	artificial intelligence lab	BCS-6D1,BCS-6D2	Lab-7	thu	142000	170
+	object oriented programming lab	BCS-2D1,BCS-2D2	Lab-13	thu	142000	170
+	artificial intelligence lab	BCS-6B1,BCS-6B2	Lab-15	thu	142000	170
+	object oriented programming lab	BCS-2K1,BCS-2K2	Lab-16	thu	082000	170
+	object oriented programming lab	BCS-2J1,BCS-2J2	Physics Lab	thu	142000	170
+	digital logic design lab	BSE-2B1	Physics Lab	thu	082000	170
+	digital logic design lab	BCS-2A1	Physics Lab	thu	112000	170
+	digital logic design lab	BDS-2B1	Physics Lab	thu	142000	170
+	digital logic design lab	BSE-2B2	Micro Lab	thu	082000	170
+	digital logic design lab	BCS-2A2	Micro Lab	thu	112000	170
+	digital logic design lab	BDS-2B2	Micro Lab	thu	142000	170
+	sociology	BDS-6A	Seminar Hall	fri	112000	80
+	design analysis of algo	BCS-4C	NB-201	fri	142000	80
+	requirement engineering	MSP-2A	NB-201	fri	172000	170
+	advanced machine learning	MCS-4A	NB-202	fri	082000	170
+	database systems	BCS-4H	NB-202	fri	112000	80
+	design analysis of algo	BCS-6B	NB-202	fri	142000	80
+	design analysis of algo	BCS-6A	NB-202	fri	155000	80
+	info retrieval and text mining	MDS-4A	NB-203	fri	095000	170
+	natural language processing	MDS-2A	NB-203	fri	142000	170
+	research methodology	MCS-2A	NB-204	fri	142000	170
+	database systems	BCS-6A	NB-205	fri	095000	80
+	design analysis of algo	BCS-4D	NB-301	fri	095000	80
+	operating systems	BDS-6A	NB-301	fri	112000	80
+	soft design architecture	BSE-4B	NB-305	fri	082000	80
+	soft design architecture	BSE-4A	NB-305	fri	095000	80
+	ideology and const of pak seerat	BCS-2F	CS-2	fri	082000	170
+	expository writing	BDS-2A	CS-2	fri	142000	110
+	expository writing	BCS-2B	CS-3	fri	105000	110
+	islamic studies ethics	BDS-2B	CS-3	fri	142000	110
+	expository writing	BCS-2C	CS-4	fri	095000	110
+	expository writing	BCS-2K	CS-5	fri	082000	110
+	critical thinking	BCS-4A	CS-6	fri	142000	80
+	islamic studies ethics holy quran	BDS-2A	CS-7	fri	095000	170
+	expository writing	BDS-2B	CS-8	fri	105000	110
+	islamic studies ethics holy quran	BCS-2B	CS-9	fri	082000	170
+	data structures lab	BDS-4A1, BDS-4A2	Lab-1	fri	082000	170
+	operating systems lab	BCS-4A1, BCS-4A2	Lab-1	fri	142000	170
+	database systems lab	BCS-4J1, BCS-4J2	Lab-2	fri	082000	170
+	operating systems lab	BCS-4F1, BCS-4F2	Lab-2	fri	142000	170
+	operating systems lab	BCS-4G1, BCS-4G2	Lab-3	fri	082000	170
+	database systems lab	BCS-4D1, BCS-4D2	Lab-3	fri	142000	170
+	database systems lab	BCS-4A1, BCS-4A2	Lab-4	fri	082000	170
+	operating systems lab	BCS-4H1, BCS-4H2	Lab-4	fri	142000	170
+	database systems lab	BCS-4B1, BCS-4B2	Lab-5	fri	082000	170
+	operating systems lab	BCS-4J1, BCS-4J2	Lab-5	fri	142000	170
+	soft design architecture lab	BSE-4B1, BSE-4B2	Lab-6	fri	095000	170
+	soft design architecture lab	BSE-4A1, BSE-4A2	Lab-6	fri	142000	170
+	data mining lab	BDS-6C1,BDS-6C2	Lab-7	fri	082000	170
+	programming fundamentals	BCS-2A1,BCS-2A2	Lab-7	fri	142000	170
+	operating systems lab	BCS-4E1, BCS-4E2	Lab-13	fri	082000	170
+	operating systems lab	BDS-6A1,BDS-6A2	Lab-13	fri	142000	170
+	object oriented programming lab	BDS-2C1,BDS-2C2	Lab-15	fri	082000	170
+	object oriented programming lab	BCS-2C1,BCS-2C2	Lab-15	fri	142000	170
+	database systems lab	BCS-4C1, BCS-4C2	Lab-16	fri	082000	170
+	operating systems lab	BCS-4B1, BCS-4B2	Lab-16	fri	142000	170
+	digital logic design lab	BCS-2D1	Physics Lab	fri	082000	170
+	digital logic design lab	BCS-2B1	Physics Lab	fri	142000	170
+	digital logic design lab	BCS-2D2	Micro Lab	fri	082000	170
+	digital logic design lab	BCS-2B2	Micro Lab	fri	142000	170
+	information security	BCS-8A	NB-201	sat	082000	170
+	ethical hacking	BCS-9A	NB-201	sat	125000	170
+	database systems lab	BCS-4K1, BCS-4K2	Lab-1	sat	082000	170
+	f of big data analytics lab	BDS-4A1, BDS-4A2	Lab-1	sat	112000	170
+	operating systems lab	BCS-4K1, BCS-4K2	Lab-1	sat	142000	170
+	computer networks lab	BCS-6A1,BCS-6A2	Lab-2	sat	082000	170
+	computer networks lab	BCS-6B1,BCS-6B2	Lab-2	sat	112000	170
+	operating systems lab	BCS-6A1,BCS-6A2	Lab-2	sat	142000	170
+	database systems lab	BCS-6A1,BCS-6A2	Lab-3	sat	112000	170
+	object oriented programming lab	BSE-2A1,BSE-2A2	Lab-3	sat	142000	170
+	f of big data analytics lab	BDS-4B1, BDS-4B2	Lab-4	sat	112000	170
+	f of big data analytics lab	BDS-4C1, BDS-4C2	Lab-4	sat	142000	170
+	com org assembly lang lab	BDS-4A1, BDS-4A2	Lab-5	sat	112000	170
+	database systems lab	BDS-4A1, BDS-4A2	Lab-5	sat	142000	170
+	database systems lab	BDS-4C1, BDS-4C2	Lab-6	sat	112000	170
+	database systems lab	BDS-4B1, BDS-4B2	Lab-6	sat	142000	170
+	com org assembly lang lab	BCS-4B1, BCS-4B2	Lab-7	sat	082000	170
+	data structures lab	BCS-4B1, BCS-4B2	Lab-7	sat	112000	170
+	object oriented programming lab	BCS-4A1,BCS-4A2	Lab-7	sat	142000	170
+	com org assembly lang lab	BCS-4A1, BCS-4A2	Lab-13	sat	082000	170
+	data structures lab	BCS-4A1, BCS-4A2	Lab-13	sat	112000	170
+	com org assembly lang lab	BCS-4C1, BCS-4C2	Lab-15	sat	112000	170
+	object oriented programming lab	BCS-2H1,BCS-2H2	Lab-16	sat	112000	170
+	digital logic design lab	BCS-2H1	Physics Lab	sat	082000	170
+	digital logic design lab	BSE-2A1	Physics Lab	sat	112000	170
+	digital logic design lab	BCS-2H2	Micro Lab	sat	082000	170
+	digital logic design lab	BSE-2A2	Micro Lab	sat	112000	170
+over
