@@ -41,8 +41,7 @@ ShowCodeCopyButtons = true
 	[params.homeInfoParams]
 	Title = "Nafees Hassan"
 	Content = """
-Computer Programmer, Open Source enthusiast,
-with an interest in low level and efficient computing
+Computer Programmer, Interested in low level computing.
 """
 
 	[[params.socialIcons]]
